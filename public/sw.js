@@ -1,5 +1,5 @@
 "use strict";
-const VERSION = "2026-11-04-3";
+const VERSION = "2026-11-04-4";
 const C = "sindical-ia-" + VERSION;
 const A = ["./", "styles.css", "app.js", "data.json", "manifest.webmanifest", "fonts/BarlowCondensed-Bold.ttf", "icons/icon-192.png", "icons/icon-512.png", "icons/maskable-192.png", "icons/maskable-512.png", "img/ponentes/afra-blanco.webp", "img/ponentes/susana-huertas.webp", "img/ponentes/pepe-alvarez.webp", "img/ponentes/carlos-cuerpo.webp", "img/ponentes/lucia-palacios.webp", "img/ponentes/laura-olias.webp", "img/ponentes/raquel-pascual.webp", "img/ponentes/cristina-alonso.webp", "img/ponentes/alejandra-de-la-fuente.webp"];
 self.addEventListener("install", e => { e.waitUntil(caches.open(C).then(c => c.addAll(A.map(u => new Request(u, {cache: "reload"}))))); });
