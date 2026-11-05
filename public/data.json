@@ -98,7 +98,9 @@
    "nota": "Contenido de la mesa — diapositiva «La Arquitectura del Ecosistema Normativo»: la IA no se regula con una sola ley; hace falta actuar a la vez en 5 engranajes legales alrededor de «Regulación Integral de la IA». Pilar A Gobernanza (Ley Orgánica de IA, proyecto 121/000096); Pilar B Sector privado/laboral (Estatuto de los Trabajadores); Pilar C Empleado público (EBEP / Estatuto Marco); Pilar D Salud laboral (LPRL), destacado en rojo en la diapositiva; Pilar E Contratación (LCSP). Diapositiva «Innovación Pública con Justicia Social» (UGT Servicios Públicos): edificio «Prosperidad Compartida» sobre tres pilares. Texto: el liderazgo en IA no se mide solo por el cómputo o la velocidad de adopción, sino por convertir la innovación en derechos, conocimiento compartido, cohesión social y valor público. Cita destacada en rojo: «La mejor política de IA es la que permite desarrollar mejores capacidades humanas y mejores servicios públicos».",
    "fotos": [
     "img/galeria/dia5-negociacion.webp",
-    "img/galeria/dia5-negociacion-2.webp"
+    "img/galeria/dia5-negociacion-2.webp",
+    "img/galeria/dia5-negociacion-live-1.webp",
+    "img/galeria/dia5-negociacion-live-2.webp"
    ]
   },
   {
@@ -541,6 +543,22 @@
    "s": "a3",
    "cap": "4 nov · 18:00. Mesa «Impacto de la IA en las relaciones laborales» (Luz Rodríguez, Antonio Sempere; modera Alberto Miguel Lorenzo).",
    "alt": "Tres personas en el escenario ante la pantalla Impacto de la IA en las relaciones laborales, 4 de noviembre de 2026"
+  },
+  {
+   "id": "g8",
+   "src": "img/galeria/dia5-negociacion-live-1.webp",
+   "d": "2026-11-05",
+   "s": "b2",
+   "cap": "5 nov · en directo. Mesa «Encarar la IA en la negociación colectiva» (pantalla con el título de la sesión).",
+   "alt": "Cuatro personas en el escenario ante la pantalla Encarar la IA en la negociación colectiva, 5 de noviembre de 2026"
+  },
+  {
+   "id": "g9",
+   "src": "img/galeria/dia5-negociacion-live-2.webp",
+   "d": "2026-11-05",
+   "s": "b2",
+   "cap": "5 nov · en directo. Misma mesa, otra toma desde el patio de butacas.",
+   "alt": "Panel de negociación colectiva en el Salón de Actos de UGT, 5 de noviembre de 2026"
   }
  ]
 }
