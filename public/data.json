@@ -147,7 +147,8 @@
    "o": "Detectar sesgos y exclusión en los sistemas.",
    "q": "¿Cómo se audita un algoritmo de selección por sesgo de género y capacitismo?",
    "fotos": [
-    "img/galeria/dia5-discapacidad.webp"
+    "img/galeria/dia5-discapacidad.webp",
+    "img/galeria/dia5-discapacidad-live.webp"
    ]
   },
   {
@@ -590,6 +591,14 @@
    "s": "a2",
    "cap": "4 nov · 17:00. Intervención en el atril (pantalla general SINDICAL-IA; sin título de mesa en la diapositiva).",
    "alt": "Mujer en el atril del Salón de Actos de UGT ante la pantalla SINDICAL-IA, 4 de noviembre de 2026"
+  },
+  {
+   "id": "g13",
+   "src": "img/galeria/dia5-discapacidad-live.webp",
+   "d": "2026-11-05",
+   "s": "b5",
+   "cap": "5 nov · en directo. Mesa «La IA en la discapacidad y en la perspectiva de género».",
+   "alt": "Panel discapacidad y género en el Salón de Actos de UGT, 5 de noviembre de 2026"
   }
  ]
 }
