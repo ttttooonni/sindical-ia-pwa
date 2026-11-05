@@ -21,7 +21,10 @@
    ],
    "m": "",
    "o": "Marco político e institucional de las jornadas.",
-   "q": "¿Qué compromisos concretos asume el Gobierno sobre IA y trabajo?"
+   "q": "¿Qué compromisos concretos asume el Gobierno sobre IA y trabajo?",
+   "fotos": [
+    "img/galeria/dia4-atril-afra.webp"
+   ]
   },
   {
    "id": "a2",
@@ -68,7 +71,9 @@
    "m": "Mari Carmen Barrera",
    "o": "Definir el rol sindical: de la información a la codecisión, y organizar.",
    "q": "¿Cómo pasa el sindicato de ser informado a codecidir sobre los sistemas?",
-   "foto": "img/galeria/dia5-gobernanza.webp"
+   "fotos": [
+    "img/galeria/dia5-gobernanza.webp"
+   ]
   },
   {
    "id": "b2",
@@ -84,8 +89,11 @@
    "m": "Clara de la Colina",
    "o": "Compartir prácticas sectoriales: servicios, sector público, industria.",
    "q": "¿Qué cláusulas tipo funcionan y cómo se auditan?",
-   "foto": "img/galeria/dia5-negociacion.webp",
-   "nota": "Contenido de la mesa — diapositiva «La Arquitectura del Ecosistema Normativo»: la IA no se regula con una sola ley; hace falta actuar a la vez en 5 engranajes legales alrededor de «Regulación Integral de la IA». Pilar A Gobernanza (Ley Orgánica de IA, proyecto 121/000096); Pilar B Sector privado/laboral (Estatuto de los Trabajadores); Pilar C Empleado público (EBEP / Estatuto Marco); Pilar D Salud laboral (LPRL), destacado en rojo en la diapositiva; Pilar E Contratación (LCSP)."
+   "nota": "Contenido de la mesa — diapositiva «La Arquitectura del Ecosistema Normativo»: la IA no se regula con una sola ley; hace falta actuar a la vez en 5 engranajes legales alrededor de «Regulación Integral de la IA». Pilar A Gobernanza (Ley Orgánica de IA, proyecto 121/000096); Pilar B Sector privado/laboral (Estatuto de los Trabajadores); Pilar C Empleado público (EBEP / Estatuto Marco); Pilar D Salud laboral (LPRL), destacado en rojo en la diapositiva; Pilar E Contratación (LCSP). Diapositiva «Innovación Pública con Justicia Social» (UGT Servicios Públicos): edificio «Prosperidad Compartida» sobre tres pilares. Texto: el liderazgo en IA no se mide solo por el cómputo o la velocidad de adopción, sino por convertir la innovación en derechos, conocimiento compartido, cohesión social y valor público. Cita destacada en rojo: «La mejor política de IA es la que permite desarrollar mejores capacidades humanas y mejores servicios públicos».",
+   "fotos": [
+    "img/galeria/dia5-negociacion.webp",
+    "img/galeria/dia5-negociacion-2.webp"
+   ]
   },
   {
    "id": "b3",
@@ -495,6 +503,22 @@
    "s": "b2",
    "cap": "Mesa «Encarar la IA en la negociación colectiva» (Marina Prieto, Moisés Torres, José Antonio Pasadas; modera Clara de la Colina). En pantalla: «La Arquitectura del Ecosistema Normativo» — 5 pilares legales (gobernanza, ET, EBEP, LPRL destacado, LCSP).",
    "alt": "Cuatro personas en el escenario ante la diapositiva La Arquitectura del Ecosistema Normativo, 5 de noviembre de 2026"
+  },
+  {
+   "id": "g4",
+   "src": "img/galeria/dia5-negociacion-2.webp",
+   "d": "2026-11-05",
+   "s": "b2",
+   "cap": "Misma mesa (10:45). Diapositiva «Innovación Pública con Justicia Social» — Prosperidad Compartida y la cita: la mejor política de IA desarrolla mejores capacidades humanas y mejores servicios públicos (UGT Servicios Públicos).",
+   "alt": "Mesa de negociación colectiva ante la diapositiva Innovación Pública con Justicia Social, 5 de noviembre de 2026"
+  },
+  {
+   "id": "g5",
+   "src": "img/galeria/dia4-atril-afra.webp",
+   "d": "2026-11-04",
+   "s": "a1",
+   "cap": "4 nov · 16:00–17:00. Intervención en el atril durante la apertura (pantalla SINDICAL-IA). Coincide con el perfil de Afra Blanco, quien presenta la apertura; identidad no etiquetada con certeza en la foto.",
+   "alt": "Mujer de cabello rubio en el atril del Salón de Actos de UGT, 4 de noviembre de 2026"
   }
  ]
 }
