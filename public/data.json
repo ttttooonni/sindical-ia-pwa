@@ -67,7 +67,8 @@
    ],
    "m": "Mari Carmen Barrera",
    "o": "Definir el rol sindical: de la información a la codecisión, y organizar.",
-   "q": "¿Cómo pasa el sindicato de ser informado a codecidir sobre los sistemas?"
+   "q": "¿Cómo pasa el sindicato de ser informado a codecidir sobre los sistemas?",
+   "foto": "img/galeria/dia5-gobernanza.webp"
   },
   {
    "id": "b2",
@@ -466,6 +467,24 @@
     "Mînzatu: ¿incluirá el Quality Jobs Act un derecho a recurrir las decisiones algorítmicas?",
     "Beltran: ¿hasta dónde llegan los neuroderechos frente a la monitorización emocional?"
    ]
+  }
+ ],
+ "GALERIA": [
+  {
+   "id": "g1",
+   "src": "img/galeria/dia4-apertura.webp",
+   "d": "2026-11-04",
+   "cap": "Apertura · Salón de Actos UGT. Intervención en el atril con la pantalla de SINDICAL-IA.",
+   "alt": "Mujer en el atril del Salón de Actos de UGT ante la pantalla SINDICAL-IA, 4 de noviembre de 2026",
+   "s": "a1"
+  },
+  {
+   "id": "g2",
+   "src": "img/galeria/dia5-gobernanza.webp",
+   "d": "2026-11-05",
+   "cap": "Mesa «El papel del sindicato en la gobernanza de la IA»: José Varela, Mari Carmen Barrera y Fernando Luján en el escenario; Jaz Brisack en conexión online.",
+   "alt": "Tres personas en el escenario bajo la pantalla de la mesa de gobernanza de la IA, 5 de noviembre de 2026",
+   "s": "b1"
   }
  ]
 }

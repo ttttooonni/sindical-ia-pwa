@@ -3,7 +3,7 @@
 const $ = s => document.querySelector(s), main = $("#main");
 const esc = s => String(s).replace(/[&<>"']/g, c => ({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#39;"}[c]));
 const DIAS = {"2026-11-04":"Mié 4","2026-11-05":"Jue 5","2026-11-06":"Vie 6"};
-const VISTAS = ["inicio","agenda","ponentes","analisis","mia"];
+const VISTAS = ["inicio","agenda","ponentes","analisis","fotos","mia"];
 const foto = n => { const p = D.PONENTES.find(x => x.n === n.replace(/\s*\(.*\)$/, "")); return p && p.f ? `<img class="av" src="${esc(p.f)}" alt="${esc(p.n)}" width="48" height="48" loading="lazy" decoding="async">` : ""; };
 const persona = n => `<li class="per">${foto(n)}<span>${esc(n)}</span></li>`;
 let D = null, day = "2026-11-04", query = "", lastNow = "";
@@ -42,7 +42,7 @@ function sesion(s) {
   return `<article class="card" data-id="${s.id}"><div class="time">${s.s}–${s.e}${s.est ? ' <span class="est">(fin aprox.)</span>' : ""} <span class="badge ok livebadge" hidden>EN DIRECTO</span></div><h3>${esc(s.t)}</h3>
 ${s.p.length ? `<p class="lbl"><strong>Ponentes</strong></p><ul class="pers">${s.p.map(persona).join("")}</ul>` : ""}${s.m ? `<p class="lbl meta">Modera</p><ul class="pers">${persona(s.m)}</ul>` : ""}
 ${s.o ? `<p><strong>Objetivo:</strong> ${esc(s.o)}</p>` : ""}${s.q ? `<p><strong>Pregunta clave:</strong> ${esc(s.q)}</p>` : ""}
-${s.p.length || s.o ? favBtn(s.id) : ""}</article>`;
+${s.foto ? `<figure class="ses-foto"><img src="${esc(s.foto)}" alt="Foto de la mesa ${esc(s.t)}" width="600" height="400" loading="lazy" decoding="async"></figure>` : ""}${s.p.length || s.o ? favBtn(s.id) : ""}</article>`;
 }
 const V = {
   inicio: () => `<p class="kicker">La acción sindical del futuro, ahora</p><h1>SINDICAL-IA</h1><div class="pix" aria-hidden="true">${"<i></i>".repeat(14)}</div>
@@ -53,6 +53,7 @@ const V = {
 <p class="meta">Horas de fin marcadas «aprox.»: estimadas, el programa no las indica.</p><div id="sl">${D.SESIONES.filter(s => s.d === day).map(sesion).join("")}</div>`,
   ponentes: () => `<h1>Ponentes</h1><label for="q" class="meta">Buscar por nombre, cargo o tema</label><input id="q" type="search" autocomplete="off" placeholder="p. ej. renta básica, Supremo…" value="${esc(query)}"><p id="pc" class="meta" role="status" aria-live="polite"></p><div id="pl"></div><p class="meta">«Según cartel»: dato que solo consta en el programa. «No verificado»: sin fuente revisada.</p><p class="credit">Fotografías recortadas del cartel oficial de las jornadas (UGT).</p>`,
   analisis: () => `<h1>Análisis</h1>${D.ANALISIS.map(a => `<section class="card" aria-labelledby="h-${a.id}"><h2 id="h-${a.id}">${esc(a.t)}</h2><ul>${a.items.map(x => `<li>${esc(x)}</li>`).join("")}</ul></section>`).join("")}`,
+  fotos: () => `<h1>Fotos</h1><p class="meta">Imágenes tomadas en el Salón de Actos durante las jornadas.</p>${D.GALERIA.map(g => `<figure class="card gal"><img src="${esc(g.src)}" alt="${esc(g.alt)}" width="600" height="800" loading="lazy" decoding="async"><figcaption><span class="kicker">${DIAS[g.d]} nov</span><br>${esc(g.cap)}</figcaption></figure>`).join("")}`,
   mia: () => { const l = D.SESIONES.filter(s => favs.includes(s.id)); return `<h1>Mi agenda</h1>${l.length ? l.map(s => `<p class="kicker">${DIAS[s.d]} nov</p>` + sesion(s)).join("") : '<p class="meta">Pulsa ☆ en la agenda para guardar sesiones aquí.</p>'}<p class="meta">Privacidad: tu agenda se guarda solo en este dispositivo (localStorage). La app no usa cookies, analítica ni recursos externos.</p>`; }
 };
 function pintaPonentes() {
