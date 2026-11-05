@@ -83,7 +83,9 @@
    ],
    "m": "Clara de la Colina",
    "o": "Compartir prácticas sectoriales: servicios, sector público, industria.",
-   "q": "¿Qué cláusulas tipo funcionan y cómo se auditan?"
+   "q": "¿Qué cláusulas tipo funcionan y cómo se auditan?",
+   "foto": "img/galeria/dia5-negociacion.webp",
+   "nota": "Contenido de la mesa — diapositiva «La Arquitectura del Ecosistema Normativo»: la IA no se regula con una sola ley; hace falta actuar a la vez en 5 engranajes legales alrededor de «Regulación Integral de la IA». Pilar A Gobernanza (Ley Orgánica de IA, proyecto 121/000096); Pilar B Sector privado/laboral (Estatuto de los Trabajadores); Pilar C Empleado público (EBEP / Estatuto Marco); Pilar D Salud laboral (LPRL), destacado en rojo en la diapositiva; Pilar E Contratación (LCSP)."
   },
   {
    "id": "b3",
@@ -485,6 +487,14 @@
    "cap": "Mesa «El papel del sindicato en la gobernanza de la IA»: José Varela, Mari Carmen Barrera y Fernando Luján en el escenario; Jaz Brisack en conexión online.",
    "alt": "Tres personas en el escenario bajo la pantalla de la mesa de gobernanza de la IA, 5 de noviembre de 2026",
    "s": "b1"
+  },
+  {
+   "id": "g3",
+   "src": "img/galeria/dia5-negociacion.webp",
+   "d": "2026-11-05",
+   "s": "b2",
+   "cap": "Mesa «Encarar la IA en la negociación colectiva» (Marina Prieto, Moisés Torres, José Antonio Pasadas; modera Clara de la Colina). En pantalla: «La Arquitectura del Ecosistema Normativo» — 5 pilares legales (gobernanza, ET, EBEP, LPRL destacado, LCSP).",
+   "alt": "Cuatro personas en el escenario ante la diapositiva La Arquitectura del Ecosistema Normativo, 5 de noviembre de 2026"
   }
  ]
 }

@@ -38,3 +38,4 @@ ul{padding-left:1.2em}li{margin:.3em 0}
 [hidden]{display:none!important}
 .gal{padding:0;overflow:hidden}.gal img,.ses-foto img{display:block;width:100%;height:auto;border-radius:0}.gal figcaption{padding:12px 14px;font-size:.9rem}.ses-foto{margin:10px 0 0;padding:0;border-radius:10px;overflow:hidden;border:1px solid rgba(212,255,0,.25)}
 .tabs{flex-wrap:wrap}.tabs a{font-size:.72rem;padding:10px 2px;min-height:52px}
+.nota{font-size:.9rem;color:var(--mut);border-left:3px solid var(--cyan);padding-left:10px;margin:10px 0}

@@ -42,7 +42,7 @@ function sesion(s) {
   return `<article class="card" data-id="${s.id}"><div class="time">${s.s}–${s.e}${s.est ? ' <span class="est">(fin aprox.)</span>' : ""} <span class="badge ok livebadge" hidden>EN DIRECTO</span></div><h3>${esc(s.t)}</h3>
 ${s.p.length ? `<p class="lbl"><strong>Ponentes</strong></p><ul class="pers">${s.p.map(persona).join("")}</ul>` : ""}${s.m ? `<p class="lbl meta">Modera</p><ul class="pers">${persona(s.m)}</ul>` : ""}
 ${s.o ? `<p><strong>Objetivo:</strong> ${esc(s.o)}</p>` : ""}${s.q ? `<p><strong>Pregunta clave:</strong> ${esc(s.q)}</p>` : ""}
-${s.foto ? `<figure class="ses-foto"><img src="${esc(s.foto)}" alt="Foto de la mesa ${esc(s.t)}" width="600" height="400" loading="lazy" decoding="async"></figure>` : ""}${s.p.length || s.o ? favBtn(s.id) : ""}</article>`;
+${s.foto ? `<figure class="ses-foto"><img src="${esc(s.foto)}" alt="Foto de la mesa ${esc(s.t)}" width="600" height="400" loading="lazy" decoding="async"></figure>` : ""}${s.nota ? `<p class="nota"><strong>Contenido de la mesa:</strong> ${esc(s.nota)}</p>` : ""}${s.p.length || s.o ? favBtn(s.id) : ""}</article>`;
 }
 const V = {
   inicio: () => `<p class="kicker">La acción sindical del futuro, ahora</p><h1>SINDICAL-IA</h1><div class="pix" aria-hidden="true">${"<i></i>".repeat(14)}</div>
