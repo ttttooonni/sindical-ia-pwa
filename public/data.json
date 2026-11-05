@@ -42,7 +42,8 @@
    "o": "Vincular IA, desinformación y calidad del empleo periodístico.",
    "q": "¿Quién garantiza la verdad si la información la producen y filtran algoritmos?",
    "fotos": [
-    "img/galeria/dia4-democracia.webp"
+    "img/galeria/dia4-democracia.webp",
+    "img/galeria/dia4-atril-17h.webp"
    ]
   },
   {
@@ -144,7 +145,10 @@
    ],
    "m": "Esther Linares Sánchez",
    "o": "Detectar sesgos y exclusión en los sistemas.",
-   "q": "¿Cómo se audita un algoritmo de selección por sesgo de género y capacitismo?"
+   "q": "¿Cómo se audita un algoritmo de selección por sesgo de género y capacitismo?",
+   "fotos": [
+    "img/galeria/dia5-discapacidad.webp"
+   ]
   },
   {
    "id": "b6",
@@ -570,6 +574,22 @@
    "s": "b3",
    "cap": "5 nov · 12:00. Mesa «El futuro de las pensiones: cotizar en la era del algoritmo» (Julen Bollain, Borja Suárez; modera Cristina Estévez).",
    "alt": "Tres personas en el escenario ante la pantalla El futuro de las pensiones, 5 de noviembre de 2026"
+  },
+  {
+   "id": "g11",
+   "src": "img/galeria/dia5-discapacidad.webp",
+   "d": "2026-11-05",
+   "s": "b5",
+   "cap": "5 nov · 16:00. Mesa «La IA en la discapacidad y en la perspectiva de género» (Jesús Martín Blanco, Lola Navarro; modera Esther Linares Sánchez).",
+   "alt": "Tres personas en el escenario ante la pantalla La IA en la discapacidad y en la perspectiva de género, 5 de noviembre de 2026"
+  },
+  {
+   "id": "g12",
+   "src": "img/galeria/dia4-atril-17h.webp",
+   "d": "2026-11-04",
+   "s": "a2",
+   "cap": "4 nov · 17:00. Intervención en el atril (pantalla general SINDICAL-IA; sin título de mesa en la diapositiva).",
+   "alt": "Mujer en el atril del Salón de Actos de UGT ante la pantalla SINDICAL-IA, 4 de noviembre de 2026"
   }
  ]
 }
