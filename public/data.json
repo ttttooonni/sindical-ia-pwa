@@ -115,7 +115,10 @@
    ],
    "m": "Cristina Estévez",
    "o": "Financiar la protección social si cae la base salarial.",
-   "q": "¿Cotización de la IA/robots, impuestos generales o renta básica?"
+   "q": "¿Cotización de la IA/robots, impuestos generales o renta básica?",
+   "fotos": [
+    "img/galeria/dia5-pensiones.webp"
+   ]
   },
   {
    "id": "b4",
@@ -559,6 +562,14 @@
    "s": "b2",
    "cap": "5 nov · en directo. Misma mesa, otra toma desde el patio de butacas.",
    "alt": "Panel de negociación colectiva en el Salón de Actos de UGT, 5 de noviembre de 2026"
+  },
+  {
+   "id": "g10",
+   "src": "img/galeria/dia5-pensiones.webp",
+   "d": "2026-11-05",
+   "s": "b3",
+   "cap": "5 nov · 12:00. Mesa «El futuro de las pensiones: cotizar en la era del algoritmo» (Julen Bollain, Borja Suárez; modera Cristina Estévez).",
+   "alt": "Tres personas en el escenario ante la pantalla El futuro de las pensiones, 5 de noviembre de 2026"
   }
  ]
 }
