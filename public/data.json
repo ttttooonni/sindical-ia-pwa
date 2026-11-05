@@ -40,7 +40,10 @@
    ],
    "m": "Alejandra de la Fuente",
    "o": "Vincular IA, desinformación y calidad del empleo periodístico.",
-   "q": "¿Quién garantiza la verdad si la información la producen y filtran algoritmos?"
+   "q": "¿Quién garantiza la verdad si la información la producen y filtran algoritmos?",
+   "fotos": [
+    "img/galeria/dia4-democracia.webp"
+   ]
   },
   {
    "id": "a3",
@@ -55,7 +58,10 @@
    "m": "Alberto Miguel Lorenzo",
    "o": "Diagnóstico jurídico del poder de dirección algorítmico y su control judicial.",
    "q": "¿Basta el marco actual (art. 64.4.d ET, RGPD, AI Act) o hace falta una ley propia?",
-   "est": true
+   "est": true,
+   "fotos": [
+    "img/galeria/dia4-relaciones.webp"
+   ]
   },
   {
    "id": "b1",
@@ -519,6 +525,22 @@
    "s": "a1",
    "cap": "4 nov · 16:00–17:00. Intervención en el atril durante la apertura (pantalla SINDICAL-IA). Coincide con el perfil de Afra Blanco, quien presenta la apertura; identidad no etiquetada con certeza en la foto.",
    "alt": "Mujer de cabello rubio en el atril del Salón de Actos de UGT, 4 de noviembre de 2026"
+  },
+  {
+   "id": "g6",
+   "src": "img/galeria/dia4-democracia.webp",
+   "d": "2026-11-04",
+   "s": "a2",
+   "cap": "4 nov · 17:00. Mesa «IA, democracia y el derecho a la verdad» (vista general del Salón de Actos).",
+   "alt": "Auditorio con la pantalla IA, democracia y el derecho a la verdad, 4 de noviembre de 2026"
+  },
+  {
+   "id": "g7",
+   "src": "img/galeria/dia4-relaciones.webp",
+   "d": "2026-11-04",
+   "s": "a3",
+   "cap": "4 nov · 18:00. Mesa «Impacto de la IA en las relaciones laborales» (Luz Rodríguez, Antonio Sempere; modera Alberto Miguel Lorenzo).",
+   "alt": "Tres personas en el escenario ante la pantalla Impacto de la IA en las relaciones laborales, 4 de noviembre de 2026"
   }
  ]
 }
