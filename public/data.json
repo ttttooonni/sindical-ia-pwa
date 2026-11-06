@@ -215,7 +215,10 @@
       ],
       "m": "",
       "o": "Síntesis y propuestas de UGT.",
-      "q": ""
+      "q": "",
+      "fotos": [
+        "img/galeria/dia6-atril-live-1.webp"
+      ]
     },
     {
       "id": "c4",
@@ -666,6 +669,14 @@
       "s": "c2",
       "cap": "6 nov · en directo. Misma mesa; en el videowall, diapositiva con Patricia Ruiz — Secretaria de Salud Laboral de UGT.",
       "alt": "Mesa de beneficios de la IA con diapositiva de Patricia Ruiz en el videowall, 6 de noviembre de 2026"
+    },
+    {
+      "id": "g21",
+      "src": "img/galeria/dia6-atril-live-1.webp",
+      "d": "2026-11-06",
+      "s": "c3",
+      "cap": "6 nov · en directo. Intervención en el atril de SINDICAL-IA; videowall con el título genérico del evento (sin cartela de nombre).",
+      "alt": "Persona hablando en el atril de SINDICAL-IA ante el videowall con el título del evento, 6 de noviembre de 2026"
     }
   ],
   "FICHAS": {
@@ -2732,8 +2743,10 @@
         }
       ],
       "modera": null,
-      "fotos": [],
-      "fotoNota": "No hay fotografías de esta intervención en la galería al publicar esta ficha.",
+      "fotos": [
+        "img/galeria/dia6-atril-live-1.webp"
+      ],
+      "fotoNota": "Una fotografía en directo de la sesión de Conclusiones (6 nov, 12:00–12:30): intervención en el atril ante el videowall de SINDICAL-IA. En pantalla solo se lee el título genérico del evento («LA ACCIÓN SINDICAL DEL FUTURO, AHORA / SINDICAL-IA»); no hay cartela ni diapositiva con nombre del ponente. No se etiqueta la identidad de quien habla: no hay identificación verificable en la imagen.",
       "secciones": [
         {
           "id": "contexto",
@@ -2742,7 +2755,8 @@
             {
               "capa": "expuesto",
               "ps": [
-                "El programa reserva media hora a la síntesis y a las propuestas de UGT, a cargo de Fernando Luján, que ya intervino el día 5 en la mesa de gobernanza. No hay moderación prevista."
+                "El programa reserva media hora a la síntesis y a las propuestas de UGT, a cargo de Fernando Luján, que ya intervino el día 5 en la mesa de gobernanza. No hay moderación prevista.",
+                "Hay una fotografía en directo del atril tomada hacia las 12:00: el videowall muestra solo el título genérico de SINDICAL-IA, sin cartela de nombre."
               ]
             }
           ]
@@ -2755,6 +2769,7 @@
               "capa": "expuesto",
               "aviso": "No se dispone de un acta literal de esta intervención. Lo que se presenta como «expuesto» se limita al programa oficial de las jornadas, a lo legible en las fotografías de la mesa y, cuando se indica expresamente, a posiciones públicas verificadas con anterioridad. No se atribuyen aquí frases pronunciadas en la sala si no hay prueba.",
               "ps": [
+                "Hay una fotografía en directo del atril (camisa/camiseta verde UGT) ante el videowall genérico de las jornadas. No hay cartela legible con el nombre de quien interviene, así que no se atribuye aquí la identidad ni el contenido oral a partir de la imagen.",
                 "No hay acta de las conclusiones leídas en la sala ni un documento final publicado en esta PWA que pueda citarse como texto aprobado de las jornadas.",
                 "La línea pública verificada de Fernando Luján y de UGT, que es la que puede usarse como hipótesis de síntesis —no como crónica— es: la IA se informa, se consulta y se negocia antes de implantarse; el control humano es irrenunciable; los beneficios se reparten en salario y jornada; sin ese control, la IA puede ser «el nuevo capataz del siglo XXI»."
               ]
