@@ -39,3 +39,28 @@ ul{padding-left:1.2em}li{margin:.3em 0}
 .gal{padding:0;overflow:hidden}.gal img,.ses-foto img{display:block;width:100%;height:auto;border-radius:0}.gal figcaption{padding:12px 14px;font-size:.9rem}.ses-foto{margin:10px 0 0;padding:0;border-radius:10px;overflow:hidden;border:1px solid rgba(212,255,0,.25)}
 .tabs{flex-wrap:wrap}.tabs a{font-size:.72rem;padding:10px 2px;min-height:52px}
 .nota{font-size:.9rem;color:var(--mut);border-left:3px solid var(--cyan);padding-left:10px;margin:10px 0}
+.ficha-link{display:inline-flex;align-items:center;min-height:44px;color:var(--lime);font-weight:700;text-decoration:none;border-bottom:1px solid var(--lime)}
+.ficha-nav{display:flex;justify-content:space-between;gap:12px;margin:8px 0 12px}
+.ficha-nav a{color:var(--cyan);text-decoration:none;font-weight:700;min-height:44px;display:inline-flex;align-items:center;flex:1}
+.ficha-nav a:last-child{text-align:right;justify-content:flex-end}
+.ficha-sec{padding:0}
+.ficha-sec summary{cursor:pointer;list-style:none;padding:14px;font-family:"Barlow Condensed","Arial Narrow",sans-serif;font-weight:700;text-transform:uppercase;letter-spacing:.02em;min-height:44px}
+.ficha-sec summary::-webkit-details-marker{display:none}
+.ficha-sec summary::after{content:" +";color:var(--lime)}
+.ficha-sec[open] summary::after{content:" −"}
+.ficha-sec summary + *{margin-left:14px;margin-right:14px}
+.ficha-sec .capa{margin:0 14px 14px}
+.capa{border-radius:10px;padding:10px 12px;margin:10px 0}
+.capa-lbl{font-size:.72rem;text-transform:uppercase;letter-spacing:.08em;font-weight:800;margin:0 0 8px}
+.capa-expuesto{border-left:3px solid var(--cyan);background:rgba(34,230,214,.08)}
+.capa-expuesto .capa-lbl{color:var(--cyan)}
+.capa-investiga{border-left:3px solid var(--lime);background:rgba(212,255,0,.06)}
+.capa-investiga .capa-lbl{color:var(--lime)}
+.capa-sindical{border-left:3px solid var(--green);background:rgba(61,255,138,.08)}
+.capa-sindical .capa-lbl{color:var(--green)}
+.aviso{font-size:.9rem;color:var(--mut);font-style:italic}
+.clausula{margin:12px 0;padding:12px;border:1px dashed var(--lime);border-radius:10px;background:rgba(0,0,0,.2)}
+.clausula pre{white-space:pre-wrap;font-family:ui-monospace,Consolas,monospace;font-size:.86rem;margin:8px 0 0}
+blockquote{margin:8px 0;padding-left:12px;border-left:3px solid var(--cyan);color:var(--txt)}
+.fuentes{padding-left:1.2em}
+.fuentes a{color:var(--cyan);word-break:break-word}

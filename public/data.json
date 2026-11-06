@@ -600,5 +600,2436 @@
    "cap": "5 nov · en directo. Mesa «La IA en la discapacidad y en la perspectiva de género».",
    "alt": "Panel discapacidad y género en el Salón de Actos de UGT, 5 de noviembre de 2026"
   }
- ]
+ ],
+ "FICHAS": {
+  "a1": {
+   "id": "a1",
+   "titulo": "Apertura",
+   "fecha": "miércoles 4 de noviembre de 2026",
+   "horario": "16:00–17:00",
+   "ponentes": [
+    {
+     "n": "Afra Blanco",
+     "c": "Sindicalista UGT, colaboradora de Atresmedia (presenta)"
+    },
+    {
+     "n": "Susana Huertas",
+     "c": "Secretaria general de UGT-Madrid"
+    },
+    {
+     "n": "Pepe Álvarez",
+     "c": "Secretario general de UGT"
+    },
+    {
+     "n": "Carlos Cuerpo",
+     "c": "Vicepresidente primero y ministro de Economía, Comercio y Empresa"
+    }
+   ],
+   "modera": null,
+   "fotos": [
+    "img/galeria/dia4-atril-afra.webp",
+    "img/galeria/dia4-apertura.webp"
+   ],
+   "fotoNota": "Las fotografías muestran una intervención en el atril ante la pantalla de SINDICAL-IA. La imagen coincide con el perfil de quien presenta la apertura (Afra Blanco), pero la identidad no se etiqueta con certeza en la foto.",
+   "secciones": [
+    {
+     "id": "contexto",
+     "t": "Contexto y presentación",
+     "bloques": [
+      {
+       "capa": "expuesto",
+       "ps": [
+        "Las Jornadas Confederales de Política Sindical y Negociación Colectiva se celebran los días 4, 5 y 6 de noviembre de 2026 en el Salón de Actos de UGT (Avenida de América, 25, Madrid), bajo el lema «La acción sindical del futuro, ahora».",
+        "El programa sitúa la apertura como marco político e institucional: presentan Afra Blanco, intervienen Susana Huertas (anfitriona territorial), Pepe Álvarez (secretario general de UGT) y Carlos Cuerpo (vicepresidente primero y ministro de Economía). La pregunta clave del programa es: «¿Qué compromisos concretos asume el Gobierno sobre IA y trabajo?»."
+       ]
+      },
+      {
+       "capa": "investiga",
+       "ps": [
+        "Las jornadas coinciden con un momento político denso: UGT participa en la movilización hacia la huelga general del 11 de noviembre de 2026 y, en el plano europeo, la Comisión tiene previsto presentar el Quality Jobs Act el 3 de diciembre de 2026 (iniciativa anunciada, no norma aprobada)."
+       ]
+      }
+     ]
+    },
+    {
+     "id": "resumen",
+     "t": "Resumen desarrollado de la intervención",
+     "bloques": [
+      {
+       "capa": "expuesto",
+       "aviso": "No se dispone de un acta literal de esta intervención. Lo que se presenta como «expuesto» se limita al programa oficial de las jornadas, a lo legible en las fotografías de la mesa y, cuando se indica expresamente, a posiciones públicas verificadas con anterioridad. No se atribuyen aquí frases pronunciadas en la sala si no hay prueba.",
+       "ps": [
+        "El objetivo declarado de la apertura es fijar el marco: el sindicalismo y la negociación colectiva ante la IA, los algoritmos y las nuevas tecnologías.",
+        "La línea confederal de UGT, verificada en declaraciones públicas previas de Pepe Álvarez y de la vicesecretaría de Política Sindical, sostiene que la IA se negocia antes de implantarse y que sus beneficios deben repartirse en salario y jornada.",
+        "El ministerio de Economía aporta la voz institucional de la productividad y de la adopción de IA en las empresas. No se han revisado aquí declaraciones concretas de Carlos Cuerpo en esta sala."
+       ]
+      }
+     ]
+    },
+    {
+     "id": "temas",
+     "t": "Principales temas tratados",
+     "bloques": [
+      {
+       "capa": "expuesto",
+       "ul": [
+        "El carácter político e institucional de las jornadas (Gobierno, sindicato y, en días posteriores, Comisión Europea).",
+        "La IA como materia de negociación colectiva, no como decisión unilateral de empresa.",
+        "La pregunta sobre los compromisos del Gobierno en IA y trabajo.",
+        "La conexión entre productividad, empleo y derechos laborales, que se desarrolla en las mesas de los días 5 y 6."
+       ]
+      }
+     ]
+    },
+    {
+     "id": "investigacion",
+     "t": "Investigación complementaria",
+     "bloques": [
+      {
+       "capa": "investiga",
+       "ps": [
+        "UGT ha documentado de forma pública que la IA puede convertirse en «el nuevo capataz del siglo XXI» si se usa para intensificar el control sin negociación. Esa formulación se atribuye a la línea de Fernando Luján y del sindicato, no a un acta de esta apertura.",
+        "El Servicio de Estudios de UGT publicó recomendaciones para llevar la IA a la negociación colectiva, los planes de igualdad y los expedientes de regulación, desarrollando el capítulo XVI.3 del V Acuerdo para el Empleo y la Negociación Colectiva (V AENC).",
+        "En paralelo, el Reglamento (UE) 2024/1689 (Ley de IA) ya clasifica como de alto riesgo muchos sistemas usados en empleo y gestión de personas, y la Directiva (UE) 2024/2831 sobre trabajo en plataformas —norma aprobada— debe estar transpuesta el 2 de diciembre de 2026."
+       ]
+      }
+     ]
+    },
+    {
+     "id": "legislacion",
+     "t": "Legislación y normativa relacionada",
+     "bloques": [
+      {
+       "capa": "investiga",
+       "ps": [
+        "Normas vigentes de referencia para enmarcar los compromisos que el programa pide al Gobierno, sin presentar proyectos como ley:"
+       ],
+       "ul": [
+        "Reglamento (UE) 2024/1689, de 13 de junio de 2024, relativo a la inteligencia artificial (en vigor; aplicación escalonada).",
+        "Directiva (UE) 2024/2831, de 23 de octubre de 2024, sobre condiciones laborales en el trabajo en plataformas (aprobada; plazo de transposición: 2 de diciembre de 2026).",
+        "Real Decreto Legislativo 2/2015 (Estatuto de los Trabajadores), art. 64.4.d: derecho del comité a ser informado de los parámetros, reglas e instrucciones de algoritmos o sistemas de IA que incidan en condiciones de trabajo, acceso y mantenimiento del empleo, incluida la elaboración de perfiles (introducido por la Ley 12/2021, «Ley Rider»).",
+        "Reglamento (UE) 2016/679 (RGPD) y Ley Orgánica 3/2018 (LOPDGDD), incluido el art. 88 sobre desconexión digital.",
+        "Quality Jobs Act: iniciativa anunciada por la Comisión Europea, con fecha prevista de presentación el 3 de diciembre de 2026. No es legislación vigente. Su forma jurídica (acto vinculante o directrices) seguía en debate en octubre de 2026."
+       ]
+      }
+     ]
+    },
+    {
+     "id": "datos",
+     "t": "Datos y estadísticas contrastados",
+     "bloques": [
+      {
+       "capa": "investiga",
+       "ps": [
+        "Eurofound, a partir de la Encuesta europea de condiciones de trabajo de 2024 (informe sobre gestión algorítmica en centros de trabajo europeos, 2026), estima que el 19 % de las personas asalariadas de la UE declara que un programa informático supervisa su rendimiento, el 18 % que le asigna las tareas y el 10 % que determina su horario.",
+        "La OIT, en su actualización de 2025 sobre inteligencia artificial generativa y empleo, concluye que un porcentaje relevante de ocupaciones tiene alguna exposición a la IA generativa y que el efecto dominante previsto es la transformación de tareas más que una destrucción automática y uniforme de puestos. El impacto depende de la ocupación, el sexo, el país y las políticas de acompañamiento.",
+        "Esas cifras no miden el empleo en Canarias ni el efecto de un sistema concreto; sirven como orden de magnitud para exigir evaluación de impacto antes de implantar IA."
+       ]
+      }
+     ]
+    },
+    {
+     "id": "analisis",
+     "t": "Análisis sindical",
+     "bloques": [
+      {
+       "capa": "sindical",
+       "ps": [
+        "La apertura coloca dos lógicas que van a tensar todo el programa: la de la competitividad y la adopción tecnológica (Economía) y la de la negociación y el reparto (UGT y, en la clausura, Trabajo). Para la representación sindical la pregunta útil no es si habrá IA, sino quién decide, con qué información y cómo se reparte el valor.",
+        "Un compromiso gubernamental genérico («impulsar la IA») no sustituye obligaciones ya vigentes: informar al amparo del art. 64.4.d ET, evaluar riesgos laborales, respetar el RGPD y no discriminar. El sindicato puede usar la apertura para exigir un calendario de transposición de la Directiva de plataformas y una posición española ambiciosa en el futuro Quality Jobs Act, sin tratarlo aún como ley."
+       ]
+      }
+     ]
+    },
+    {
+     "id": "empresas",
+     "t": "Aplicación práctica en las empresas",
+     "bloques": [
+      {
+       "capa": "sindical",
+       "ps": [
+        "Tras una apertura institucional, la delegada o el delegado puede pedir por escrito tres cosas inmediatas: 1) inventario de sistemas de IA o algoritmos que incidan en empleo, jornada, turnos, productividad o selección; 2) la información del art. 64.4.d ET; 3) que no se implante ningún sistema nuevo sin información previa y consulta.",
+        "Si la dirección invoca «transformación digital» o «mejora de la productividad» como eco de la agenda económica, la contrapartida sindical es medición compartida del efecto sobre plantilla, horas extras, ritmo y salud, no una adhesión automática."
+       ]
+      }
+     ]
+    },
+    {
+     "id": "casos",
+     "t": "Casos prácticos sectoriales (Canarias)",
+     "bloques": [
+      {
+       "capa": "sindical",
+       "ps": [
+        "En Canarias, el peso del turismo y de la hostelería hace que cualquier discurso de productividad se traduzca de inmediato en ocupación hotelera, externalización de pisos, turnos partidos y plantillas fijas-discontinuas.",
+        "Si una cadena justifica con «innovación» un sistema que predice ocupación y ajusta camareras de piso «en tiempo real», la apertura de estas jornadas ofrece un argumento político: la IA no es neutra ni meramente económica; es materia laboral. La representación puede exigir que ese sistema no se active en temporada alta sin evaluación de impacto sobre horas, descansos y empleo indefinido.",
+        "En el transporte interinsular y en el comercio asociado al turismo el mismo esquema (previsión de demanda → asignación de personal) requiere el mismo control preventivo."
+       ]
+      }
+     ]
+    },
+    {
+     "id": "propuestas",
+     "t": "Propuestas para la negociación colectiva",
+     "bloques": [
+      {
+       "capa": "sindical",
+       "ps": [
+        "Propuesta de cláusula de información previa y no implantación unilateral. Se ofrece como texto negociable, no como legislación vigente."
+       ],
+       "clausula": "[Propuesta negociable, no legislación vigente]\n\nArtículo X. Información previa sobre sistemas de inteligencia artificial.\n1. La empresa informará por escrito a la representación legal de las personas trabajadoras, con una antelación mínima de treinta días naturales, de cualquier implantación, ampliación o cambio sustancial de algoritmos o sistemas de inteligencia artificial que puedan incidir en las condiciones de trabajo, el acceso o el mantenimiento del empleo, los turnos, la jornada, la evaluación del rendimiento o la elaboración de perfiles.\n2. Esa información incluirá, como mínimo, la finalidad del sistema, las decisiones humanas que apoya o sustituye, las variables y parámetros principales, el grado de supervisión humana y las evaluaciones de impacto laboral, de igualdad y de protección de datos de que se disponga.\n3. El sistema no se pondrá en producción hasta que haya concluido el periodo de información y consulta, sin perjuicio de los derechos ya reconocidos en el artículo 64 del Estatuto de los Trabajadores y en la normativa de prevención y de protección de datos."
+      }
+     ]
+    },
+    {
+     "id": "conclusiones",
+     "t": "Conclusiones",
+     "bloques": [
+      {
+       "capa": "sindical",
+       "ps": [
+        "La apertura no es una mesa técnica: es el marco. Su utilidad para delegadas y delegados es recordar que hay un mandato confederal (negociar la IA y repartir sus beneficios) y unas normas ya vigentes que no dependen de un nuevo anuncio político.",
+        "El compromiso que el programa pide al Gobierno debe aterrizarse: transposición de la Directiva de plataformas, refuerzo de la Inspección, y no confundir el Quality Jobs Act —aún no presentado como norma— con derechos que ya se pueden ejercer mañana en la empresa."
+       ]
+      }
+     ]
+    },
+    {
+     "id": "fuentes",
+     "t": "Fuentes y documentación",
+     "bloques": [
+      {
+       "capa": "investiga",
+       "links": [
+        {
+         "t": "Reglamento (UE) 2024/1689 (Ley de IA) en EUR-Lex",
+         "url": "https://eur-lex.europa.eu/eli/reg/2024/1689/oj"
+        },
+        {
+         "t": "Directiva (UE) 2024/2831 sobre trabajo en plataformas",
+         "url": "https://eur-lex.europa.eu/eli/dir/2024/2831/oj"
+        },
+        {
+         "t": "Ley 12/2021 (Ley Rider) y art. 64.4.d ET",
+         "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2021-15767"
+        },
+        {
+         "t": "Estatuto de los Trabajadores (texto consolidado)",
+         "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2015-11431"
+        },
+        {
+         "t": "UGT: la IA puede ser el nuevo capataz del siglo XXI",
+         "url": "https://www.ugt.es/ugt-advierte-en-reino-unido-de-que-la-ia-puede-convertirse-en-el-nuevo-capataz-del-siglo-xxi"
+        },
+        {
+         "t": "Servicio de Estudios UGT: recomendaciones para la negociación colectiva de la IA",
+         "url": "https://servicioestudiosugt.com/recomendaciones-para-la-negociacion-colectiva-de-la-ia/"
+        },
+        {
+         "t": "UGT: el V AENC debe preservar los derechos fundamentales por encima de la IA",
+         "url": "https://www.ugt.es/el-v-aenc-debe-preservar-los-derechos-fundamentales-por-encima-de-la-ia"
+        },
+        {
+         "t": "Eurofound: Algorithmic management in European workplaces",
+         "url": "https://www.eurofound.europa.eu/en/publications/all/algorithmic-management-in-european-workplaces"
+        },
+        {
+         "t": "OIT: Inteligencia artificial generativa y empleo (actualización 2025)",
+         "url": "https://www.ilo.org/es/publications/inteligencia-artificial-generativa-y-empleo-edicion-actualizada-de-2025"
+        },
+        {
+         "t": "Hoja de ruta de empleo de calidad (Comisión Europea)",
+         "url": "https://employment-social-affairs.ec.europa.eu/policies-and-activities/rights-work/quality-jobs-companies-and-workers-europe_en"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  "a2": {
+   "id": "a2",
+   "titulo": "IA, democracia y el derecho a la verdad",
+   "fecha": "miércoles 4 de noviembre de 2026",
+   "horario": "17:00–18:00",
+   "ponentes": [
+    {
+     "n": "Lucía Palacios",
+     "c": "Periodista, Vocento"
+    },
+    {
+     "n": "Laura Olías",
+     "c": "Periodista, eldiario.es"
+    },
+    {
+     "n": "Raquel Pascual",
+     "c": "Periodista, El País"
+    },
+    {
+     "n": "Cristina Alonso",
+     "c": "Periodista, El Mundo"
+    }
+   ],
+   "modera": {
+    "n": "Alejandra de la Fuente",
+    "c": "Secretaria ejecutiva UGT (modera)"
+   },
+   "fotos": [
+    "img/galeria/dia4-democracia.webp",
+    "img/galeria/dia4-atril-17h.webp"
+   ],
+   "fotoNota": "La fotografía de conjunto muestra el auditorio y la pantalla con el título de la mesa. En el atril (17:00) se ve una intervención ante la pantalla general de SINDICAL-IA, sin el título de la mesa en esa diapositiva; no se identifica con certeza a la persona del atril.",
+   "secciones": [
+    {
+     "id": "contexto",
+     "t": "Contexto y presentación",
+     "bloques": [
+      {
+       "capa": "expuesto",
+       "ps": [
+        "El programa define esta mesa como el vínculo entre la IA, la desinformación y la calidad del empleo periodístico. Modera Alejandra de la Fuente. La pregunta clave es: «¿Quién garantiza la verdad si la información la producen y filtran algoritmos?».",
+        "Las cuatro voces invitadas son periodistas de medios generalistas (Vocento, eldiario.es, El País, El Mundo). Es la única mesa del programa centrada en la dimensión democrática de la IA y en el propio oficio de informar."
+       ]
+      }
+     ]
+    },
+    {
+     "id": "resumen",
+     "t": "Resumen desarrollado de la intervención",
+     "bloques": [
+      {
+       "capa": "expuesto",
+       "aviso": "No se dispone de un acta literal de esta intervención. Lo que se presenta como «expuesto» se limita al programa oficial de las jornadas, a lo legible en las fotografías de la mesa y, cuando se indica expresamente, a posiciones públicas verificadas con anterioridad. No se atribuyen aquí frases pronunciadas en la sala si no hay prueba.",
+       "ps": [
+        "No hay transcripción de las intervenciones. El encargo de la mesa, según el programa, es debatir cómo la IA altera la producción, el filtrado y la circulación de la información, y qué significa eso para quienes viven de informar con rigor.",
+        "Las fotografías confirman que la sesión se celebró en el Salón de Actos con el título proyectado «IA, democracia y el derecho a la verdad». Los cargos periodísticos de las ponentes constan en el cartel; varias de esas adscripciones se marcaron como no verificadas de forma independiente en la investigación previa de las jornadas."
+       ]
+      }
+     ]
+    },
+    {
+     "id": "temas",
+     "t": "Principales temas tratados",
+     "bloques": [
+      {
+       "capa": "expuesto",
+       "ul": [
+        "Desinformación y contenidos sintéticos (texto, imagen o audio generados o alterados por IA).",
+        "El papel de los algoritmos de recomendación en lo que la ciudadanía ve y cree.",
+        "La calidad del empleo en las redacciones: ritmo, plantillas y uso de IA generativa para redactar o editar.",
+        "Quién responde cuando un sistema produce o amplifica una falsedad con impacto laboral, político o social."
+       ]
+      }
+     ]
+    },
+    {
+     "id": "investigacion",
+     "t": "Investigación complementaria",
+     "bloques": [
+      {
+       "capa": "investiga",
+       "ps": [
+        "Esther Paniagua (quien interviene el día 6, escrita «Ester» en el cartel) documentó en «Error 404» (2021) la relación entre dependencia digital, desinformación, discriminación algorítmica y gobernanza. Ese trabajo no se presentó en esta mesa, pero conecta el eje democrático con el europeo.",
+        "El Reglamento (UE) 2022/2065 (Ley de Servicios Digitales) obliga a las plataformas de muy gran tamaño a evaluar y mitigar riesgos sistémicos, entre ellos la desinformación, y a ofrecer transparencia sobre la publicidad y los sistemas de recomendación. Jose Cepeda, eurodiputado que habla el día 6, ha defendido públicamente esa transparencia.",
+        "La Ley de IA prohíbe, en su régimen de prácticas vedadas, determinados usos de manipulación y de explotación de vulnerabilidades, y exige transparencia cuando las personas interactúan con un sistema de IA o cuando se les presentan contenidos sintéticos (obligaciones de etiquetado, con matices y plazos de aplicación). Conviene consultar el texto consolidado en EUR-Lex."
+       ]
+      }
+     ]
+    },
+    {
+     "id": "legislacion",
+     "t": "Legislación y normativa relacionada",
+     "bloques": [
+      {
+       "capa": "investiga",
+       "ul": [
+        "Reglamento (UE) 2022/2065, Ley de Servicios Digitales (DSA): diligencia debida, transparencia de recomendadores y riesgos sistémicos en plataformas de muy gran tamaño.",
+        "Reglamento (UE) 2024/1689: transparencia de contenidos sintéticos y prohibición de ciertas prácticas de manipulación.",
+        "RGPD: decisiones automatizadas (art. 22), información y derechos de las personas afectadas cuando se perfila a la audiencia o a la plantilla.",
+        "Estatuto de los Trabajadores, art. 64.4.d, si el medio usa IA para organizar turnos, evaluar rendimiento o decidir sobre el empleo en la redacción.",
+        "Convenios de prensa, agencias y medios: la autoría, la firma y el uso de IA generativa no están resueltos de manera uniforme; hay que mirar el convenio de aplicación y no inventar un régimen legal específico que no existe."
+       ]
+      }
+     ]
+    },
+    {
+     "id": "datos",
+     "t": "Datos y estadísticas contrastados",
+     "bloques": [
+      {
+       "capa": "investiga",
+       "ps": [
+        "Eurofound sitúa la supervisión algorítmica del rendimiento en el 19 % de las personas asalariadas de la UE. En las redacciones esa cifra no está desglosada, pero el mecanismo (métricas de clics, tiempo de producción, «productividad» por pieza) es el mismo tipo de gestión por indicadores.",
+        "No se aporta aquí un número oficial de puestos periodísticos ya sustituidos por IA en España: esas estimaciones circulan en la profesión y en estudios de mercado, pero no se ha contrastado una cifra única y actualizada que pueda citarse como estadística pública. Queda pendiente de verificación cualquier dato concreto de destrucción de empleo en medios que no venga de una fuente primaria."
+       ]
+      }
+     ]
+    },
+    {
+     "id": "analisis",
+     "t": "Análisis sindical",
+     "bloques": [
+      {
+       "capa": "sindical",
+       "ps": [
+        "Para UGT el «derecho a la verdad» no es solo un dilema ético de la audiencia: es una condición laboral. Una redacción precarizada, con menos tiempo de contrastación y con IA generativa que produce borradores a destajo, fabrica un entorno propicio a errores, sesgos y desinformación.",
+        "La mesa no incluye a trabajadoras y trabajadores de moderación de contenidos ni a riders de la información. Ese hueco del programa no impide usar sus conclusiones: quien filtra odio o verifica a destajo también necesita límites a la vigilancia, formación y salud laboral."
+       ]
+      }
+     ]
+    },
+    {
+     "id": "empresas",
+     "t": "Aplicación práctica en las empresas",
+     "bloques": [
+      {
+       "capa": "sindical",
+       "ps": [
+        "En un medio, una agencia o el departamento de comunicación de una empresa, la representación puede pedir: inventario de herramientas de IA generativa; si se usan para redactar, titular, traducir, ilustrar o perfilar audiencias; quién firma el contenido; y cómo se mide el rendimiento (piezas/hora, clics, permanencia).",
+        "Si hay evaluación por métricas automatizadas, entra el art. 64.4.d ET. Si hay tratamiento de datos de la plantilla (teclas, tiempos, capturas), entra el RGPD y, en su caso, la evaluación de impacto."
+       ]
+      }
+     ]
+    },
+    {
+     "id": "casos",
+     "t": "Casos prácticos sectoriales (Canarias)",
+     "bloques": [
+      {
+       "capa": "sindical",
+       "ps": [
+        "En Canarias la reputación turística se construye también con contenidos: reseñas, vídeos, chatbots de reservas y campañas generadas por IA. Un hotel o un tour operador que publique imágenes sintéticas de habitaciones o playas, o que automatice respuestas a reclamaciones, puede afectar a quien trabaja en recepción, pisos o atención al cliente (volumen de quejas, tiempos de respuesta medidos por algoritmo).",
+        "En el comercio y en las administraciones públicas canarias, los chatbots de información al ciudadano o al consumidor no pueden presentarse como personas si la normativa de transparencia de la IA exige lo contrario, y no deben usarse para eludir la responsabilidad de una empleada o un empleado público."
+       ]
+      }
+     ]
+    },
+    {
+     "id": "propuestas",
+     "t": "Propuestas para la negociación colectiva",
+     "bloques": [
+      {
+       "capa": "sindical",
+       "ps": [
+        "Cláusula sobre IA generativa, autoría y calidad del trabajo informativo o de comunicación. Texto negociable, no legislación vigente."
+       ],
+       "clausula": "[Propuesta negociable, no legislación vigente]\n\nArtículo X. Inteligencia artificial generativa y contenidos.\n1. El uso de sistemas de IA para redactar, editar, traducir, ilustrar o titular contenidos se negociará con la representación legal antes de su implantación.\n2. Toda pieza informativa o de comunicación corporativa en la que la IA haya intervenido de forma sustancial lo hará constar de manera interna, y se garantizará una revisión humana con tiempo suficiente antes de su publicación.\n3. La IA no se utilizará como único criterio para evaluar el rendimiento ni para determinar plantillas, y no justificará por sí sola una reducción de efectivos.\n4. La empresa no exigirá a la plantilla producir un volumen de contenidos incompatible con la contrastación y la salud laboral."
+      }
+     ]
+    },
+    {
+     "id": "conclusiones",
+     "t": "Conclusiones",
+     "bloques": [
+      {
+       "capa": "sindical",
+       "ps": [
+        "La democracia informativa y el empleo digno en los medios se sostienen mutuamente. Sin tiempo, plantilla y responsabilidad humana, el algoritmo no «garantiza la verdad».",
+        "Las delegadas pueden llevar al convenio reglas de uso, firma, revisión humana y límites a la evaluación por clics, sin esperar a una ley específica de periodismo e IA que hoy no existe como tal."
+       ]
+      }
+     ]
+    },
+    {
+     "id": "fuentes",
+     "t": "Fuentes y documentación",
+     "bloques": [
+      {
+       "capa": "investiga",
+       "links": [
+        {
+         "t": "Reglamento (UE) 2022/2065, Ley de Servicios Digitales",
+         "url": "https://eur-lex.europa.eu/eli/reg/2022/2065/oj"
+        },
+        {
+         "t": "Reglamento (UE) 2024/1689 (Ley de IA)",
+         "url": "https://eur-lex.europa.eu/eli/reg/2024/1689/oj"
+        },
+        {
+         "t": "RGPD",
+         "url": "https://eur-lex.europa.eu/eli/reg/2016/679/oj"
+        },
+        {
+         "t": "Esther Paniagua: biografía",
+         "url": "https://estherpaniagua.com/biografia/"
+        },
+        {
+         "t": "Jose Cepeda sobre la Ley de Servicios Digitales (laSexta)",
+         "url": "https://www.lasexta.com/noticias/internacional/europa/eurodiputado-jose-cepeda-psoe-ley-servicios-digitales-trata-que-redes-sociales-sean-mas-transparentes_2024092766f6ba64fcf7b3000144a380.html"
+        },
+        {
+         "t": "Eurofound: gestión algorítmica en centros de trabajo europeos",
+         "url": "https://www.eurofound.europa.eu/en/publications/all/algorithmic-management-in-european-workplaces"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  "a3": {
+   "id": "a3",
+   "titulo": "Impacto de la IA en las relaciones laborales",
+   "fecha": "miércoles 4 de noviembre de 2026",
+   "horario": "18:00–19:00 (fin aproximado: el programa no indica la hora de cierre)",
+   "ponentes": [
+    {
+     "n": "Luz Rodríguez",
+     "c": "Catedrática de Derecho del Trabajo, Universidad de Castilla-La Mancha"
+    },
+    {
+     "n": "Antonio Sempere",
+     "c": "Magistrado de la Sala IV del Tribunal Supremo"
+    }
+   ],
+   "modera": {
+    "n": "Alberto Miguel Lorenzo",
+    "c": "Vicesecretario general de Política Sindical y Salud Laboral, UGT Castilla y León (modera)"
+   },
+   "fotos": [
+    "img/galeria/dia4-relaciones.webp"
+   ],
+   "fotoNota": "La fotografía muestra a tres personas en el escenario ante la pantalla «Impacto de la IA en las relaciones laborales». No se etiquetan individualmente con certeza a partir de la imagen.",
+   "secciones": [
+    {
+     "id": "contexto",
+     "t": "Contexto y presentación",
+     "bloques": [
+      {
+       "capa": "expuesto",
+       "ps": [
+        "El programa define la mesa como un diagnóstico jurídico del poder de dirección algorítmico y de su control judicial. La pregunta clave es: «¿Basta el marco actual (art. 64.4.d ET, RGPD, AI Act) o hace falta una ley propia?».",
+        "Intervienen Luz Rodríguez (catedrática de Derecho del Trabajo, UCLM) y Antonio Sempere (magistrado de la Sala de lo Social del Tribunal Supremo). Modera Alberto Miguel Lorenzo. El horario de fin (19:00) está estimado; el programa no lo indica."
+       ]
+      }
+     ]
+    },
+    {
+     "id": "resumen",
+     "t": "Resumen desarrollado de la intervención",
+     "bloques": [
+      {
+       "capa": "expuesto",
+       "aviso": "No se dispone de un acta literal de esta intervención. Lo que se presenta como «expuesto» se limita al programa oficial de las jornadas, a lo legible en las fotografías de la mesa y, cuando se indica expresamente, a posiciones públicas verificadas con anterioridad. No se atribuyen aquí frases pronunciadas en la sala si no hay prueba.",
+       "ps": [
+        "No hay acta de lo dicho en la sala. Las posiciones públicas previas de Luz Rodríguez, contrastadas en la investigación de las jornadas, advierten de algoritmos que deciden ascensos, turnos y libranzas, del sesgo de género en los datos de entrenamiento y de la mercantilización del trabajo en plataformas. Es autora o participante del informe «IA, género y trabajo».",
+        "De Antonio Sempere no se localizó, en esa misma revisión, una posición pública específica sobre algoritmos. Su comparecencia se espera, por su trayectoria, en clave jurisprudencial (despidos, control empresarial, protección de datos), sin atribuirle aquí conclusiones que no constan."
+       ]
+      }
+     ]
+    },
+    {
+     "id": "temas",
+     "t": "Principales temas tratados",
+     "bloques": [
+      {
+       "capa": "expuesto",
+       "ul": [
+        "El poder de dirección cuando se ejerce mediante algoritmos (organización, control, sanción).",
+        "El derecho de información del art. 64.4.d ET y sus límites prácticos.",
+        "La articulación entre Estatuto de los Trabajadores, RGPD y Reglamento de IA.",
+        "La pregunta de si hace falta una ley laboral específica de IA o basta desarrollar el marco vigente y la negociación colectiva."
+       ]
+      }
+     ]
+    },
+    {
+     "id": "investigacion",
+     "t": "Investigación complementaria",
+     "bloques": [
+      {
+       "capa": "investiga",
+       "ps": [
+        "El art. 64.4.d ET, introducido por la Ley 12/2021, reconoce al comité el derecho a ser informado de «los parámetros, reglas e instrucciones» de algoritmos o sistemas de IA que afecten a decisiones sobre condiciones de trabajo, acceso y mantenimiento del empleo, incluida la elaboración de perfiles. No exige que la decisión sea enteramente automatizada.",
+        "El Ministerio de Trabajo publicó en 2022 una guía de información algorítmica: la empresa debe explicar finalidad, variables, ponderación, tipo de tecnología, grado de intervención humana, datos de entrenamiento y, en su caso, auditorías. No está obligado a entregar el código fuente.",
+        "El Reglamento de IA considera de alto riesgo, en el anexo III, punto 4, los sistemas destinados a contratación y selección, y los que toman o apoyan decisiones sobre condiciones laborales, promoción o extinción, asignación de tareas a partir de comportamientos o rasgos personales, o supervisión y evaluación del rendimiento.",
+        "Adrián Todolí e Ignasi Beltran dirigieron en 2025 «La regulación de la IA y el Derecho del Trabajo» (Aranzadi), volumen de referencia que articula precisamente este debate. Todolí y Beltran intervienen el día 6."
+       ]
+      }
+     ]
+    },
+    {
+     "id": "legislacion",
+     "t": "Legislación y normativa relacionada",
+     "bloques": [
+      {
+       "capa": "investiga",
+       "ps": [
+        "Un proyecto de Ley Orgánica de IA (iniciativa 121/000096 del Congreso), citado al día siguiente en una diapositiva de otra mesa, es un proyecto parlamentario, no una norma aprobada."
+       ],
+       "ul": [
+        "Art. 64.4.d del Estatuto de los Trabajadores (redacción de la Ley 12/2021): derecho colectivo de información algorítmica.",
+        "Artículos 20 y 20.3 ET: dirección y control de la actividad laboral, con límites de dignidad e intimidad.",
+        "RGPD, arts. 5, 6, 9, 22 y 35: licitud, datos especiales, decisiones automatizadas y evaluación de impacto.",
+        "LOPDGDD, en particular el art. 88 (desconexión digital) y las especialidades del tratamiento en el ámbito laboral (art. 87 y concordantes sobre dispositivos y control).",
+        "Reglamento (UE) 2024/1689, anexo III.4 y art. 14 (supervisión humana de sistemas de alto riesgo).",
+        "Directiva (UE) 2024/2831: gestión algorítmica en plataformas, transparencia, supervisión humana y revisión de decisiones (ámbito de plataformas; no se extiende automáticamente a todo el empleo ordinario)."
+       ]
+      }
+     ]
+    },
+    {
+     "id": "datos",
+     "t": "Datos y estadísticas contrastados",
+     "bloques": [
+      {
+       "capa": "investiga",
+       "ps": [
+        "Eurofound (EWCS 2024): 19 % de personas asalariadas en la UE con supervisión algorítmica del rendimiento; 18 % con asignación de tareas por programa; 10 % con horario determinado por programa. Quienes están sujetos a gestión algorítmica declaran mayores exigencias cuantitativas (intensidad) y más tensión laboral; la supervisión del rendimiento se asocia con peores resultados de salud y bienestar.",
+        "Esas evidencias sostienen, en sede jurídica, que el algoritmo no es un instrumento neutro de organización: tiene efectos medibles sobre condiciones de trabajo y salud, y por tanto entra en el diagnóstico de legalidad y de prevención."
+       ]
+      }
+     ]
+    },
+    {
+     "id": "analisis",
+     "t": "Análisis sindical",
+     "bloques": [
+      {
+       "capa": "sindical",
+       "ps": [
+        "La pregunta del programa (¿basta el marco actual o hace falta una ley propia?) no debe paralizar la acción cotidiana. Aunque se discuta una futura ley laboral de IA, hoy ya hay un derecho de información, un deber de consulta en los supuestos legales, un RGPD y una Ley de prevención. El déficit frecuente no es la ausencia total de normas, sino su incumplimiento y la falta de capacidad técnica para auditar.",
+        "Una ley propia podría cerrar lagunas (por ejemplo, un derecho expreso a la evaluación de impacto laboral o a impugnar decisiones algorítmicas fuera de las plataformas). Hasta entonces, la negociación colectiva puede anticipar esas garantías sin fingir que ya son ley."
+       ]
+      }
+     ]
+    },
+    {
+     "id": "empresas",
+     "t": "Aplicación práctica en las empresas",
+     "bloques": [
+      {
+       "capa": "sindical",
+       "ps": [
+        "Modelo de petición al amparo del art. 64.4.d: identificar cada sistema; qué decisiones de personas cubre (selección, turnos, primas, extinción, promoción); variables y pesos; datos usados; intervención humana real (quién puede anular); auditorías y evaluaciones de impacto; fechas de puesta en marcha.",
+        "Si la empresa responde que el sistema es «secreto comercial», se puede recordar que el derecho recae sobre parámetros, reglas e instrucciones comprensibles, no necesariamente sobre el código, y que el secreto no puede vaciar el artículo 64."
+       ]
+      }
+     ]
+    },
+    {
+     "id": "casos",
+     "t": "Casos prácticos sectoriales (Canarias)",
+     "bloques": [
+      {
+       "capa": "sindical",
+       "ps": [
+        "Hotel de un núcleo turístico canario que usa un motor de ocupación para decidir cuántas camareras de piso cubren cada planta, si hay turno partido y quién «rinde» por habitación. Ese sistema, si incide en jornada, empleo o evaluación, activa el art. 64.4.d ET y, si puntúa o perfila a trabajadoras, puede ser de alto riesgo a efectos del anexo III.4 del Reglamento de IA.",
+        "Efectos típicos a documentar: reducción de plantilla fija en temporada baja, intensificación en picos, recorte de tiempos muertos, vigilancia de ritmos y riesgo de sesgo contra quien tiene adaptación de jornada o discapacidad.",
+        "En el transporte (guaguas, handling aeroportuario) y en la sanidad pública canaria, la asignación algorítmica de servicios o de citas puede alterar cargas y descansos: el análisis jurídico es el mismo, aunque el empleador sea privado o público (en este último caso entra también el EBEP)."
+       ]
+      }
+     ]
+    },
+    {
+     "id": "propuestas",
+     "t": "Propuestas para la negociación colectiva",
+     "bloques": [
+      {
+       "capa": "sindical",
+       "ps": [
+        "Cláusula de desarrollo del art. 64.4.d y de consulta previa. Texto negociable, no legislación vigente."
+       ],
+       "clausula": "[Propuesta negociable, no legislación vigente]\n\nArtículo X. Algoritmos, información y consulta.\n1. Además de lo previsto en el artículo 64.4.d del Estatuto de los Trabajadores, la empresa entregará la información algorítmica en lenguaje comprensible y en soporte durable, en un plazo máximo de quince días desde la solicitud de la representación legal o desde la decisión de implantar o modificar el sistema.\n2. Se abrirá un periodo de consulta de al menos quince días sobre la finalidad, los efectos laborales previsibles y las medidas de supervisión humana.\n3. Ninguna decisión de extinción, sanción grave, no renovación o denegación de promoción se adoptará de forma enteramente automatizada. Toda decisión de esa naturaleza será revisable por una persona con competencia, formación y autoridad para anularla.\n4. El secreto comercial no podrá invocarse para denegar la información sobre parámetros, reglas, instrucciones y efectos laborales del sistema."
+      }
+     ]
+    },
+    {
+     "id": "conclusiones",
+     "t": "Conclusiones",
+     "bloques": [
+      {
+       "capa": "sindical",
+       "ps": [
+        "El poder de dirección algorítmico ya está aquí; el control judicial y sindical llega tarde si no se pide la información y no se documentan los efectos.",
+        "El marco vigente (ET, RGPD, Ley de IA, LPRL) no es superfluo. La discusión sobre una ley laboral propia es legítima y abierta; no debe presentarse como si ya existiera."
+       ]
+      }
+     ]
+    },
+    {
+     "id": "fuentes",
+     "t": "Fuentes y documentación",
+     "bloques": [
+      {
+       "capa": "investiga",
+       "links": [
+        {
+         "t": "Ley 12/2021 (art. 64.4.d ET)",
+         "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2021-15767"
+        },
+        {
+         "t": "Guía de información algorítmica del Ministerio de Trabajo (2022)",
+         "url": "https://www.lamoncloa.gob.es/serviciosdeprensa/notasprensa/trabajo14/Documents/2022/100622-Guia_algoritmos.pdf"
+        },
+        {
+         "t": "Reglamento (UE) 2024/1689",
+         "url": "https://eur-lex.europa.eu/eli/reg/2024/1689/oj"
+        },
+        {
+         "t": "AESIA: sistemas de alto riesgo",
+         "url": "https://aesia.digital.gob.es/es/actualidad/recursos/ria-sistemas-de-alto-riesgo"
+        },
+        {
+         "t": "Luz Rodríguez sobre algoritmos, ascensos y libranzas (La Vanguardia)",
+         "url": "https://www.lavanguardia.com/dinero/empleo/20251001/11117942/luz-rodriguez-catedratica-derecho-trabajo-traves-algoritmos-decidir-ascenso-libranza-mmn.html"
+        },
+        {
+         "t": "Informe IA, género y trabajo (derechosdigitales.gob.es)",
+         "url": "https://www.derechosdigitales.gob.es/sites/default/files/2025-05/Inteligencia%20Artificial%20Genero%20y%20Trabajo.pdf"
+        },
+        {
+         "t": "Todolí y Beltran (dirs.), La regulación de la IA y el Derecho del Trabajo",
+         "url": "https://www.aranzadilaley.es/tienda/la-regulacion-de-la-inteligencia-artificial-y-el-derecho-del-trabajo"
+        },
+        {
+         "t": "Eurofound: Algorithmic management in European workplaces",
+         "url": "https://www.eurofound.europa.eu/en/publications/all/algorithmic-management-in-european-workplaces"
+        },
+        {
+         "t": "ETUI: Algorithmic management and collective bargaining",
+         "url": "https://www.etui.org/publications/algorithmic-management-and-collective-bargaining"
+        },
+        {
+         "t": "ETUI: Regulating algorithmic management",
+         "url": "https://www.etui.org/publications/regulating-algorithmic-management"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  "b1": {
+   "id": "b1",
+   "titulo": "El papel del sindicato en la gobernanza de la IA",
+   "fecha": "jueves 5 de noviembre de 2026",
+   "horario": "09:30–10:45",
+   "ponentes": [
+    {
+     "n": "Jaz Brisack",
+     "c": "Cofundó Starbucks Workers United; Rhodes Scholar (participa online)"
+    },
+    {
+     "n": "José Varela",
+     "c": "Responsable de Digitalización, vicesecretaría de Política Sindical UGT"
+    },
+    {
+     "n": "Fernando Luján",
+     "c": "Vicesecretario general de Política Sindical UGT"
+    }
+   ],
+   "modera": {
+    "n": "Mari Carmen Barrera",
+    "c": "Secretaria de Políticas Europeas UGT (modera)"
+   },
+   "fotos": [
+    "img/galeria/dia5-gobernanza.webp"
+   ],
+   "fotoNota": "La fotografía muestra a tres personas en el escenario bajo la pantalla «El papel del sindicato en la gobernanza de la IA». En la investigación previa se identificó la conexión online de Jaz Brisack; en la imagen se aprecia un recuadro de videoconferencia a la derecha, de lectura parcial.",
+   "secciones": [
+    {
+     "id": "contexto",
+     "t": "Contexto y presentación",
+     "bloques": [
+      {
+       "capa": "expuesto",
+       "ps": [
+        "El programa define el objetivo: pasar de ser informados a codecidir sobre los sistemas, y organizar. La pregunta clave es: «¿Cómo pasa el sindicato de ser informado a codecidir sobre los sistemas?». Modera Mari Carmen Barrera.",
+        "La mesa combina la experiencia de organización de base de Jaz Brisack (Starbucks Workers United, participación online) con la línea confederal de José Varela (digitalización y negociación) y Fernando Luján (política sindical)."
+       ]
+      }
+     ]
+    },
+    {
+     "id": "resumen",
+     "t": "Resumen desarrollado de la intervención",
+     "bloques": [
+      {
+       "capa": "expuesto",
+       "aviso": "No se dispone de un acta literal de esta intervención. Lo que se presenta como «expuesto» se limita al programa oficial de las jornadas, a lo legible en las fotografías de la mesa y, cuando se indica expresamente, a posiciones públicas verificadas con anterioridad. No se atribuyen aquí frases pronunciadas en la sala si no hay prueba.",
+       "ps": [
+        "La fotografía confirma el título proyectado y un formato mixto (presencial y conexión). No hay acta de las palabras.",
+        "Posiciones públicas verificadas con anterioridad: Fernando Luján sostiene que la IA se informa, se consulta y se negocia antes de implantarse, que sus beneficios se reparten (salario y menos tiempo de trabajo) y que «la IA puede ser el nuevo capataz del siglo XXI». José Varela es el referente técnico de UGT en la cláusula de IA asociada al V AENC. Jaz Brisack no es especialista en IA: su libro «Get on the Job and Organize» (2025) trata el salting y la organización en empresas con gestión intensiva por datos (Starbucks, Tesla, Nissan)."
+       ]
+      }
+     ]
+    },
+    {
+     "id": "temas",
+     "t": "Principales temas tratados",
+     "bloques": [
+      {
+       "capa": "expuesto",
+       "ul": [
+        "Gobernanza sindical de la IA: información, consulta, negociación y codecisión.",
+        "Organización de base frente a empresas que dirigen mediante datos y algoritmos.",
+        "El papel de las federaciones y del V AENC para bajar cláusulas a los convenios.",
+        "La dimensión europea (modera la secretaria de Políticas Europeas de UGT)."
+       ]
+      }
+     ]
+    },
+    {
+     "id": "investigacion",
+     "t": "Investigación complementaria",
+     "bloques": [
+      {
+       "capa": "investiga",
+       "ps": [
+        "El capítulo XVI.3 del V AENC ha sido el cauce confederal para recomendar que la digitalización y la IA preserven derechos fundamentales y se aborden en la negociación. El Servicio de Estudios de UGT concretó recomendaciones: control humano, información comprensible de parámetros, evaluación de sesgos y un «dividendo digital» que comparta la productividad.",
+        "En el modelo estadounidense de Brisack el poder se construye organizando el centro de trabajo. En España existe representación legal, convenios de eficacia general y el art. 64 ET. No son modelos intercambiables: se pueden complementar (afiliar y organizar allí donde el algoritmo atomiza) sin importar recetas ajenas al marco español.",
+        "La consulta a los interlocutores sociales europeos sobre el futuro Quality Jobs Act incluye la gestión algorítmica. Eso no convierte esa iniciativa en ley."
+       ]
+      }
+     ]
+    },
+    {
+     "id": "legislacion",
+     "t": "Legislación y normativa relacionada",
+     "bloques": [
+      {
+       "capa": "investiga",
+       "ul": [
+        "Art. 64 ET: información y consulta al comité, incluida la letra d) sobre algoritmos.",
+        "Directiva 2002/14/CE, sobre información y consulta de los trabajadores, transpuesta en el ordenamiento español.",
+        "V AENC: acuerdo de interlocutores sociales, no ley; orienta la negociación pero no sustituye al convenio ni al ET.",
+        "Reglamento (UE) 2024/1689: los responsables del despliegue de sistemas de alto riesgo tienen deberes de transparencia y supervisión humana (arts. 13 y 14, entre otros).",
+        "Directiva (UE) 2024/2831: en plataformas, los representantes deben ser informados y consultados sobre la introducción o la modificación sustancial de sistemas automatizados."
+       ]
+      }
+     ]
+    },
+    {
+     "id": "datos",
+     "t": "Datos y estadísticas contrastados",
+     "bloques": [
+      {
+       "capa": "investiga",
+       "ps": [
+        "La gestión algorítmica ya no es solo cosa de plataformas: Eurofound la documenta en finanzas, información y comunicaciones, y transporte, con mayor presencia entre personal administrativo, técnicos y operadores de instalaciones.",
+        "Esa difusión explica por qué el sindicato no puede limitarse a «ser informado» a posteriori: el sistema ya está organizando el trabajo cotidiano de una parte significativa de las plantillas europeas."
+       ]
+      }
+     ]
+    },
+    {
+     "id": "analisis",
+     "t": "Análisis sindical",
+     "bloques": [
+      {
+       "capa": "sindical",
+       "ps": [
+        "Informar no es codecidir. El art. 64.4.d es un suelo, no un techo. La gobernanza que propone UGT (negociación previa, control humano, reparto) exige comisiones de seguimiento con capacidad de emitir informe, pedir corrección y, en convenio, condicionar la puesta en marcha.",
+        "Organizar a quien «tiene un algoritmo por jefe» —pregunta sugerida a Brisack en el análisis previo— es especialmente difícil en centros con alta rotación, subcontratas y trabajo a turno. Ahí la afiliación y la comunicación clara importan tanto como la cláusula jurídica."
+       ]
+      }
+     ]
+    },
+    {
+     "id": "empresas",
+     "t": "Aplicación práctica en las empresas",
+     "bloques": [
+      {
+       "capa": "sindical",
+       "ps": [
+        "Pasos concretos: constituir o reactivar una comisión de digitalización/IA con calendario; formar a la representación (dentro de la jornada); mapear sistemas con la plantilla (quién siente que «le dirige un programa»); exigir la información legal; llevar al convenio la consulta previa y la evaluación periódica.",
+        "Si no hay comité (muchas pymes), el delegado o la sección sindical y, en su defecto, las federaciones sectoriales pueden articular la misma exigencia a escala de convenio provincial o de empresa."
+       ]
+      }
+     ]
+    },
+    {
+     "id": "casos",
+     "t": "Casos prácticos sectoriales (Canarias)",
+     "bloques": [
+      {
+       "capa": "sindical",
+       "ps": [
+        "En un hotel de temporada la plantilla cambia, hay subcontratas de pisos y el algoritmo de ocupación decide el día a día. Organizar y codecidir exige: contactar también a la plantilla subcontratada; pedir el inventario de sistemas a la principal y a la contratista; y negociar en el convenio de hostelería, no solo en una empresa aislada.",
+        "En la administración pública canaria la «gobernanza» pasa además por la Mesa de negociación y por los pliegos de contratación de software: si el sistema lo compra la Administración, la representación debe entrar antes de adjudicar, no cuando ya está en marcha."
+       ]
+      }
+     ]
+    },
+    {
+     "id": "propuestas",
+     "t": "Propuestas para la negociación colectiva",
+     "bloques": [
+      {
+       "capa": "sindical",
+       "ps": [
+        "Cláusula de comisión paritaria y codecisión. Texto negociable, no legislación vigente."
+       ],
+       "clausula": "[Propuesta negociable, no legislación vigente]\n\nArtículo X. Comisión de inteligencia artificial y digitalización.\n1. Se constituye una comisión paritaria de IA y digitalización, con representantes de la empresa y de la representación legal, que será informada y consultada con carácter previo a cualquier implantación o cambio sustancial.\n2. La comisión podrá recabar asesoramiento técnico, solicitar una evaluación de impacto laboral e informará, en su caso, de forma desfavorable. Ese informe se incorporará al expediente antes de la decisión final.\n3. La formación de quienes integran la comisión se realizará dentro de la jornada y a cargo de la empresa.\n4. La comisión evaluará cada sistema al menos una vez al año y siempre que se detecte un incidente de discriminación, salud laboral o empleo."
+      }
+     ]
+    },
+    {
+     "id": "conclusiones",
+     "t": "Conclusiones",
+     "bloques": [
+      {
+       "capa": "sindical",
+       "ps": [
+        "Gobernar la IA es organizar, informar, consultar y negociar, en ese orden de ambición. El suelo legal ya existe; el techo lo pone el convenio y la correlación de fuerzas.",
+        "La experiencia internacional de organización de base se suma al modelo español de representación: no lo sustituye."
+       ]
+      }
+     ]
+    },
+    {
+     "id": "fuentes",
+     "t": "Fuentes y documentación",
+     "bloques": [
+      {
+       "capa": "investiga",
+       "links": [
+        {
+         "t": "UGT: la IA, el nuevo capataz del siglo XXI",
+         "url": "https://www.ugt.es/ugt-advierte-en-reino-unido-de-que-la-ia-puede-convertirse-en-el-nuevo-capataz-del-siglo-xxi"
+        },
+        {
+         "t": "Recomendaciones UGT para la negociación colectiva de la IA",
+         "url": "https://servicioestudiosugt.com/recomendaciones-para-la-negociacion-colectiva-de-la-ia/"
+        },
+        {
+         "t": "UGT y el V AENC frente a la IA",
+         "url": "https://www.ugt.es/el-v-aenc-debe-preservar-los-derechos-fundamentales-por-encima-de-la-ia"
+        },
+        {
+         "t": "Brisack, Get on the Job and Organize (Simon & Schuster)",
+         "url": "https://www.simonandschuster.com/books/Get-on-the-Job-and-Organize/Jaz-Brisack/9781668080801"
+        },
+        {
+         "t": "Estatuto de los Trabajadores, art. 64",
+         "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2015-11431"
+        },
+        {
+         "t": "Eurofound: gestión algorítmica",
+         "url": "https://www.eurofound.europa.eu/en/publications/all/algorithmic-management-in-european-workplaces"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  "b2": {
+   "id": "b2",
+   "titulo": "Encarar la IA en la negociación colectiva",
+   "fecha": "jueves 5 de noviembre de 2026",
+   "horario": "10:45–12:00",
+   "ponentes": [
+    {
+     "n": "Marina Prieto",
+     "c": "Vicesecretaria general FeSMC-UGT"
+    },
+    {
+     "n": "Moisés Torres",
+     "c": "Secretario de Acción Sindical, UGT Servicios Públicos"
+    },
+    {
+     "n": "José Antonio Pasadas",
+     "c": "Secretario de Acción Sindical, FICA-UGT"
+    }
+   ],
+   "modera": {
+    "n": "Clara de la Colina",
+    "c": "Secretaria de Política Sindical, UGT Andalucía (modera)"
+   },
+   "fotos": [
+    "img/galeria/dia5-negociacion.webp",
+    "img/galeria/dia5-negociacion-2.webp",
+    "img/galeria/dia5-negociacion-live-1.webp",
+    "img/galeria/dia5-negociacion-live-2.webp"
+   ],
+   "fotoNota": "Cuatro fotografías de la misma mesa. En dos de ellas se leen con claridad las diapositivas proyectadas; las tomas «en directo» muestran el título de la sesión. No se etiquetan individualmente a las cuatro personas del panel a partir de las imágenes.",
+   "secciones": [
+    {
+     "id": "contexto",
+     "t": "Contexto y presentación",
+     "bloques": [
+      {
+       "capa": "expuesto",
+       "ps": [
+        "El programa pide compartir prácticas sectoriales de servicios, sector público e industria, y responde a la pregunta: «¿Qué cláusulas tipo funcionan y cómo se auditan?». Las tres federaciones presentes (FeSMC, Servicios Públicos y FICA) cubren precisamente esos tres mundos. Modera Clara de la Colina."
+       ]
+      }
+     ]
+    },
+    {
+     "id": "resumen",
+     "t": "Resumen desarrollado de la intervención",
+     "bloques": [
+      {
+       "capa": "expuesto",
+       "aviso": "No se dispone de un acta literal de esta intervención. Lo que se presenta como «expuesto» se limita al programa oficial de las jornadas, a lo legible en las fotografías de la mesa y, cuando se indica expresamente, a posiciones públicas verificadas con anterioridad. No se atribuyen aquí frases pronunciadas en la sala si no hay prueba.",
+       "ps": [
+        "Además del programa, esta mesa deja prueba visual de dos diapositivas leídas en las fotografías."
+       ],
+       "ul": [
+        "«La Arquitectura del Ecosistema Normativo»: «La IA no puede regularse con una sola ley. Requiere actuar sobre 5 engranajes legales simultáneamente para crear un marco de derechos». En el centro, «Regulación Integral de la IA». Pilar A Gobernanza: Ley Orgánica de IA (Proyecto 121/000096). Pilar B Sector privado/laboral: Estatuto de los Trabajadores. Pilar C Empleado público: Estatuto Básico del Empleado Público (EBEP) / Estatuto Marco. Pilar D Salud laboral: Ley de Prevención de Riesgos Laborales (LPRL), destacado en rojo. Pilar E Contratación: Ley de Contratos del Sector Público (LCSP).",
+        "«Innovación Pública con Justicia Social» (UGT Servicios Públicos): edificio «Prosperidad Compartida» sobre tres pilares. Texto: el liderazgo en IA no se mide solo por la capacidad de cómputo o la velocidad de adopción, sino por convertir la innovación en derechos, conocimiento compartido, cohesión social y valor público. Cita destacada: «La mejor política de IA es la que permite desarrollar mejores capacidades humanas y mejores servicios públicos»."
+       ]
+      }
+     ]
+    },
+    {
+     "id": "temas",
+     "t": "Principales temas tratados",
+     "bloques": [
+      {
+       "capa": "expuesto",
+       "ul": [
+        "Una regulación integral: cinco engranajes (gobernanza, ET, empleo público, prevención y contratación), no una sola norma.",
+        "La salud laboral como pilar destacado (en rojo en la diapositiva).",
+        "La innovación pública medida por derechos y servicios, no solo por cómputo.",
+        "Prácticas de negociación en servicios, administraciones e industria."
+       ]
+      }
+     ]
+    },
+    {
+     "id": "investigacion",
+     "t": "Investigación complementaria",
+     "bloques": [
+      {
+       "capa": "investiga",
+       "ps": [
+        "El «Pilar A» cita expresamente un proyecto: la iniciativa 121/000096, Ley Orgánica de IA. Es un proyecto parlamentario. Presentarlo como ley aprobada sería incorrecto; la propia diapositiva lo etiqueta como proyecto.",
+        "Los otros cuatro pilares sí remiten a normas vigentes: ET (RDL 2/2015), EBEP (RDL 5/2015) y Estatuto Marco del personal estatutario, LPRL (Ley 31/1995) y LCSP (Ley 9/2017). Sobre ellas opera además el Reglamento de IA y, en plataformas, la Directiva 2024/2831.",
+        "UGT Servicios Públicos sostiene que el liderazgo público en IA se juega en la calidad del servicio y en las capacidades humanas: un criterio útil para pliegos, formación y no reducción automática de plantillas públicas."
+       ]
+      }
+     ]
+    },
+    {
+     "id": "legislacion",
+     "t": "Legislación y normativa relacionada",
+     "bloques": [
+      {
+       "capa": "investiga",
+       "ul": [
+        "Proyecto de Ley Orgánica de IA (iniciativa 121/000096): no es derecho vigente.",
+        "Estatuto de los Trabajadores, en especial arts. 20, 41, 64 y 85 y siguientes (negociación colectiva).",
+        "EBEP (RDL 5/2015) y normativa de mesas de negociación del empleo público; Estatuto Marco en sanidad.",
+        "Ley 31/1995 de prevención de riesgos laborales: evaluación de riesgos, incluida la dimensión psicosocial de la digitalización.",
+        "Ley 9/2017 de contratos del sector público: los pliegos pueden y deben incorporar requisitos de transparencia, supervisión humana y derechos laborales cuando se contrata un sistema de IA.",
+        "Reglamento (UE) 2024/1689, de aplicación también a autoridades públicas que despliegan sistemas de alto riesgo (prestaciones, sanidad, selección)."
+       ]
+      }
+     ]
+    },
+    {
+     "id": "datos",
+     "t": "Datos y estadísticas contrastados",
+     "bloques": [
+      {
+       "capa": "investiga",
+       "ps": [
+        "Eurofound documenta más gestión algorítmica en transporte, finanzas e información y comunicaciones que en educación o construcción. Eso encaja con la división de la mesa: FeSMC (servicios, movilidad, plataformas), FICA (industria y automatización) y Servicios Públicos (otro régimen, otra negociación).",
+        "La OIT (2025) insiste en que la IA generativa transforma tareas y que el resultado neto sobre empleo depende de las instituciones laborales. La negociación es, por tanto, una variable del impacto, no un adorno posterior."
+       ]
+      }
+     ]
+    },
+    {
+     "id": "analisis",
+     "t": "Análisis sindical",
+     "bloques": [
+      {
+       "capa": "sindical",
+       "ps": [
+        "La diapositiva de los cinco pilares es una herramienta pedagógica excelente para la sección sindical: si la empresa dice «cumplimos el AI Act», se pregunta por el ET, la prevención, la igualdad y, si es pública, por el pliego y el EBEP.",
+        "Auditar una cláusula no es firmarla y olvidarla: hay que nombrar responsables, fijar un calendario, exigir los logs y las métricas de error o sesgo, y volver a evaluar. Sin eso, la cláusula es declarativa."
+       ]
+      }
+     ]
+    },
+    {
+     "id": "empresas",
+     "t": "Aplicación práctica en las empresas",
+     "bloques": [
+      {
+       "capa": "sindical",
+       "ps": [
+        "Lista de comprobación para una negociación real: inventario de sistemas; evaluación de impacto laboral (empleo, jornada, clasificación, igualdad, salud); consulta; supervisión humana nominada; formación en jornada; garantía de no discriminación; cláusula de empleo; reparto de productividad; revisión anual.",
+        "En industria (FICA): mantenimiento predictivo, visión artificial y robótica colaborativa cambian categorías y primas de peligrosidad. En servicios (FeSMC): turnos, ranking y atención al cliente. En lo público: expedientes, citas y control horario."
+       ]
+      }
+     ]
+    },
+    {
+     "id": "casos",
+     "t": "Casos prácticos sectoriales (Canarias)",
+     "bloques": [
+      {
+       "capa": "sindical",
+       "ps": [
+        "Hostelería: un PMS hotelero que combina ocupación, pricing y staffing. Hay que negociar umbrales mínimos de plantilla por plaza ocupada, límites al turno partido y la prohibición de primar solo por «habitaciones/hora» si recorta tiempos de descanso.",
+        "Comercio: sistemas de previsión de afluencia que abren o cierran cajas y turnos en centros comerciales ligados al turismo. Transporte: algoritmos de asignación de servicios y de bonificación por puntualidad. Sanidad e AAPP canarias: IA de citación o de triage administrativo, que no puede dejar sin supervisión humana el acceso a prestaciones (anexo III.5 del Reglamento de IA).",
+        "Industria y energía en las islas: mantenimiento predictivo que no se traduzca en guardias permanentes ni en vigilancia fuera de jornada (art. 88 LOPDGDD y LPRL)."
+       ]
+      }
+     ]
+    },
+    {
+     "id": "propuestas",
+     "t": "Propuestas para la negociación colectiva",
+     "bloques": [
+      {
+       "capa": "sindical",
+       "ps": [
+        "Cláusula de evaluación de impacto laboral previa, alineada con los cinco pilares de la diapositiva. Texto negociable, no legislación vigente."
+       ],
+       "clausula": "[Propuesta negociable, no legislación vigente]\n\nArtículo X. Evaluación de impacto laboral de la inteligencia artificial.\n1. Antes de implantar un sistema de IA o un algoritmo de gestión de personas, la empresa elaborará una evaluación de impacto laboral, que se entregará a la representación legal y se someterá a consulta.\n2. La evaluación analizará, como mínimo, los efectos sobre el empleo, la jornada, la clasificación profesional, la igualdad de trato, la protección de datos y los riesgos psicosociales, con medidas preventivas concretas.\n3. En el sector público, el pliego de contratación incorporará exigencias equivalentes de transparencia, supervisión humana y participación de la representación.\n4. El sistema se revisará al menos cada doce meses o cuando cambien sus parámetros sustanciales."
+      }
+     ]
+    },
+    {
+     "id": "conclusiones",
+     "t": "Conclusiones",
+     "bloques": [
+      {
+       "capa": "sindical",
+       "ps": [
+        "La mesa deja un mapa normativo (cinco pilares) y un criterio político (prosperidad compartida). El mapa no convierte el proyecto de Ley Orgánica en ley. El criterio sí permite medir cada cláusula: ¿mejora derechos y servicios o solo acelera la adopción?",
+        "La auditoría es parte de la cláusula, no un extra."
+       ]
+      }
+     ]
+    },
+    {
+     "id": "fuentes",
+     "t": "Fuentes y documentación",
+     "bloques": [
+      {
+       "capa": "investiga",
+       "links": [
+        {
+         "t": "Estatuto de los Trabajadores",
+         "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2015-11431"
+        },
+        {
+         "t": "EBEP (RDL 5/2015)",
+         "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2015-11719"
+        },
+        {
+         "t": "Ley 31/1995 de prevención de riesgos laborales",
+         "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1995-24292"
+        },
+        {
+         "t": "Ley 9/2017 de contratos del sector público",
+         "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2017-12902"
+        },
+        {
+         "t": "Reglamento (UE) 2024/1689",
+         "url": "https://eur-lex.europa.eu/eli/reg/2024/1689/oj"
+        },
+        {
+         "t": "Recomendaciones UGT para negociar la IA",
+         "url": "https://servicioestudiosugt.com/recomendaciones-para-la-negociacion-colectiva-de-la-ia/"
+        },
+        {
+         "t": "Búsqueda de iniciativas del Congreso (para localizar el proyecto 121/000096)",
+         "url": "https://www.congreso.es/es/busqueda-de-iniciativas"
+        },
+        {
+         "t": "ETUI: Algorithmic management and collective bargaining",
+         "url": "https://www.etui.org/publications/algorithmic-management-and-collective-bargaining"
+        },
+        {
+         "t": "ETUI: Regulating algorithmic management",
+         "url": "https://www.etui.org/publications/regulating-algorithmic-management"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  "b3": {
+   "id": "b3",
+   "titulo": "El futuro de las pensiones: cotizar en la era del algoritmo",
+   "fecha": "jueves 5 de noviembre de 2026",
+   "horario": "12:00–13:00",
+   "ponentes": [
+    {
+     "n": "Julen Bollain",
+     "c": "Doctor en Estudios sobre Desarrollo, Mondragon Unibertsitatea"
+    },
+    {
+     "n": "Borja Suárez",
+     "c": "Secretario de Estado de Seguridad Social y Pensiones"
+    }
+   ],
+   "modera": {
+    "n": "Cristina Estévez",
+    "c": "Secretaria ejecutiva UGT (modera)"
+   },
+   "fotos": [
+    "img/galeria/dia5-pensiones.webp"
+   ],
+   "fotoNota": "La fotografía muestra tres personas en el escenario ante la pantalla «El futuro de las pensiones: cotizar en la era del algoritmo». Identificación individual no etiquetada con certeza a partir de la imagen.",
+   "secciones": [
+    {
+     "id": "contexto",
+     "t": "Contexto y presentación",
+     "bloques": [
+      {
+       "capa": "expuesto",
+       "ps": [
+        "El programa plantea cómo financiar la protección social si cae la base salarial y formula la pregunta: «¿Cotización de la IA/robots, impuestos generales o renta básica?». Intervienen Julen Bollain y Borja Suárez. Modera Cristina Estévez."
+       ]
+      }
+     ]
+    },
+    {
+     "id": "resumen",
+     "t": "Resumen desarrollado de la intervención",
+     "bloques": [
+      {
+       "capa": "expuesto",
+       "aviso": "No se dispone de un acta literal de esta intervención. Lo que se presenta como «expuesto» se limita al programa oficial de las jornadas, a lo legible en las fotografías de la mesa y, cuando se indica expresamente, a posiciones públicas verificadas con anterioridad. No se atribuyen aquí frases pronunciadas en la sala si no hay prueba.",
+       "ps": [
+        "No hay acta de la sala. Posiciones públicas verificadas con anterioridad: Julen Bollain defiende la renta básica universal, es coautor de «En defensa de la renta básica» (2023) y propone financiarla con IRPF, un impuesto a la riqueza y otro al CO₂, no con un «impuesto a los robots». Prevé destrucción neta de empleo por la automatización.",
+        "Borja Suárez ha pedido más implicación del Estado en la financiación ante el baby boom y la IA. En el ámbito del Gobierno, Joaquín Pérez Rey (Trabajo) ha declarado que no será necesario que los robots coticen porque habrá suficientes trabajadores para sostener el sistema. Esa declaración no se atribuye a Suárez en esta mesa."
+       ]
+      }
+     ]
+    },
+    {
+     "id": "temas",
+     "t": "Principales temas tratados",
+     "bloques": [
+      {
+       "capa": "expuesto",
+       "ul": [
+        "Sostenibilidad de las pensiones si la IA reduce empleo o salarios.",
+        "Alternativas de financiación: cotizaciones, impuestos generales, tributos sobre el capital o sobre el CO₂, renta básica.",
+        "El debate sobre si los «robots» o la IA deben cotizar.",
+        "La tensión entre centralidad del empleo (tradición sindical y sistema contributivo) y una renta básica desligada del trabajo."
+       ]
+      }
+     ]
+    },
+    {
+     "id": "investigacion",
+     "t": "Investigación complementaria",
+     "bloques": [
+      {
+       "capa": "investiga",
+       "ps": [
+        "No existe en España, a esta fecha, un impuesto o una cotización específica «de los robots» o «de la IA» que esté en vigor. Presentar esa figura como norma aprobada sería incorrecto: es una propuesta de debate.",
+        "La OIT advierte que la IA generativa transforma tareas y que los efectos sobre el empleo no son uniformes. Un escenario de caída de la masa salarial no es un destino automático, pero sí un riesgo que hay que gobernar con política salarial, de jornada, de formación y fiscal.",
+        "El sistema español de pensiones combina cotizaciones e impuestos. Cualquier debate serio sobre «quién paga si cotiza menos gente» es un debate sobre el mix fiscal, no solo sobre un gadget tributario."
+       ]
+      }
+     ]
+    },
+    {
+     "id": "legislacion",
+     "t": "Legislación y normativa relacionada",
+     "bloques": [
+      {
+       "capa": "investiga",
+       "ul": [
+        "Texto refundido de la Ley General de la Seguridad Social (RDL 8/2015): sistema contributivo y complementos, sin un régimen específico de cotización de sistemas de IA.",
+        "Normativa de reformas de pensiones de los últimos años (incluyendo mecanismos de equidad intergeneracional y revalorización): consultar el texto vigente en el BOE; no se resume aquí como si no hubiera cambiado.",
+        "No hay, como ley aprobada, un «impuesto sobre los robots» ni una renta básica estatal de carácter universal.",
+        "El art. 41 de la Constitución reconoce la Seguridad Social para toda la ciudadanía; el cómo se financia es decisión política y legislativa."
+       ]
+      }
+     ]
+    },
+    {
+     "id": "datos",
+     "t": "Datos y estadísticas contrastados",
+     "bloques": [
+      {
+       "capa": "investiga",
+       "aviso": "Cualquier porcentaje concreto de destrucción de empleo por IA que no cite un estudio primario queda pendiente de verificación.",
+       "ps": [
+        "Eurofound y la OIT no ofrecen una cifra única de «cuántos puestos destruirá la IA en España en 2030» que pueda darse aquí como oficial. Las estimaciones varían según la metodología (exposición de tareas frente a sustitución neta).",
+        "Lo que sí está contrastado es el mecanismo: si cae el empleo o el salario, cae la base de cotización, salvo que se compensen con otros ingresos públicos o con mejoras salariales asociadas a la productividad."
+       ]
+      }
+     ]
+    },
+    {
+     "id": "analisis",
+     "t": "Análisis sindical",
+     "bloques": [
+      {
+       "capa": "sindical",
+       "ps": [
+        "La tradición de UGT sitúa el empleo digno y el salario en el centro, y pide que la productividad de la IA se traduzca en mejores condiciones, no en un vaciamiento de las bases de cotización. Eso no obliga a abrazar ni a rechazar de antemano una renta básica: obliga a no aceptar que la automatización socialice las pérdidas y privatice las ganancias.",
+        "Un «impuesto al robot» puede ser un eslogan útil, pero fiscalmente es más sólido hablar de gravar beneficios, plusvalías y riqueza, y de mantener la obligación de cotizar por cada persona que trabaja, también en plataformas."
+       ]
+      }
+     ]
+    },
+    {
+     "id": "empresas",
+     "t": "Aplicación práctica en las empresas",
+     "bloques": [
+      {
+       "capa": "sindical",
+       "ps": [
+        "Aunque las pensiones se deciden en el sistema público, en la empresa se puede negociar: mantenimiento del empleo ante la automatización; formación y recualificación en jornada; cotización correcta de todos los conceptos salariales; y que las primas o bonus ligados a la productividad de la IA coticen y no se desvíen a figuras irregulares.",
+        "En un ERE o ERTE «tecnológico», exigir cuentas de la ganancia de productividad y de su destino."
+       ]
+      }
+     ]
+    },
+    {
+     "id": "casos",
+     "t": "Casos prácticos sectoriales (Canarias)",
+     "bloques": [
+      {
+       "capa": "sindical",
+       "ps": [
+        "El empleo turístico canario es estacional y con alta presencia de fijos discontinuos. Si un hotel automatiza reservas, limpieza o atención y reduce jornadas cotizadas, el efecto no es solo empresarial: es una merma de bases futuras de pensión para plantillas ya fragmentadas.",
+        "En el comercio, el transporte y la sanidad de las islas, sustituir horas ordinarias por picos cubiertos con algoritmos de «just in time» empeora las carreras de cotización. La respuesta sindical es doble: defender horas y empleo, y vigilar la cotización de cada hora trabajada."
+       ]
+      }
+     ]
+    },
+    {
+     "id": "propuestas",
+     "t": "Propuestas para la negociación colectiva",
+     "bloques": [
+      {
+       "capa": "sindical",
+       "ps": [
+        "Cláusula de empleo, formación y cotización ante la automatización. Texto negociable, no legislación vigente."
+       ],
+       "clausula": "[Propuesta negociable, no legislación vigente]\n\nArtículo X. Automatización, empleo y cotización.\n1. La implantación de sistemas de IA no podrá utilizarse como causa automática de extinción de contratos. Cualquier reorganización que afecte al empleo se someterá a consulta y, en su caso, al procedimiento legal que corresponda, con información de la ganancia de productividad esperada.\n2. Las personas afectadas tendrán derecho a formación de recualificación dentro de la jornada y a cargo de la empresa.\n3. Todos los complementos vinculados a la productividad o al rendimiento de sistemas automatizados se abonarán como salario y se cotizarán a la Seguridad Social.\n4. Anualmente se informará a la representación legal de la evolución de plantilla media, horas cotizadas y productividad asociada a dichos sistemas."
+      }
+     ]
+    },
+    {
+     "id": "conclusiones",
+     "t": "Conclusiones",
+     "bloques": [
+      {
+       "capa": "sindical",
+       "ps": [
+        "Cotizar en la era del algoritmo es, primero, defender empleo y salarios que sigan alimentando el sistema; después, discutir con honestidad el mix fiscal. Ni la renta básica ni el «impuesto al robot» son hoy leyes.",
+        "La mesa visibiliza dos modelos (Bollain / visión gubernamental de Suárez). El sindicato puede dialogar con ambos sin ceder la centralidad del trabajo digno."
+       ]
+      }
+     ]
+    },
+    {
+     "id": "fuentes",
+     "t": "Fuentes y documentación",
+     "bloques": [
+      {
+       "capa": "investiga",
+       "links": [
+        {
+         "t": "Ley General de la Seguridad Social (texto consolidado)",
+         "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2015-12397"
+        },
+        {
+         "t": "Bollain: la renta básica ya no es utópica (eldiario.es)",
+         "url": "https://www.eldiario.es/economia/julen-bollain-renta-basica-no-alternativa-utopica-hablaba-veinte-anos_128_8638597.html"
+        },
+        {
+         "t": "Suárez: más implicación estatal por baby boom e IA (Infobae, julio 2026)",
+         "url": "https://www.infobae.com/espana/agencias/2026/07/06/secretario-de-seguridad-social-ve-necesidad-de-mas-implicacion-estatal-por-baby-boom-e-ia/"
+        },
+        {
+         "t": "Pérez Rey: no será necesario que los robots coticen (elEconomista)",
+         "url": "https://www.eleconomista.es/economia/noticias/13898317/04/26/perez-rey-trabajo-no-sera-necesario-que-los-robots-coticen-habra-suficientes-trabajadores-para-sostener-el-sistema.html"
+        },
+        {
+         "t": "OIT: IA generativa y empleo, actualización 2025",
+         "url": "https://www.ilo.org/es/publications/inteligencia-artificial-generativa-y-empleo-edicion-actualizada-de-2025"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  "b5": {
+   "id": "b5",
+   "titulo": "La IA en la discapacidad y en la perspectiva de género",
+   "fecha": "jueves 5 de noviembre de 2026",
+   "horario": "16:00–17:30",
+   "ponentes": [
+    {
+     "n": "Jesús Martín Blanco",
+     "c": "Director general de Derechos de las Personas con Discapacidad"
+    },
+    {
+     "n": "Lola Navarro",
+     "c": "Vicesecretaria general UGT"
+    }
+   ],
+   "modera": {
+    "n": "Esther Linares Sánchez",
+    "c": "Secretaria de Política Sindical y Diálogo Social, UGT Aragón (modera)"
+   },
+   "fotos": [
+    "img/galeria/dia5-discapacidad.webp",
+    "img/galeria/dia5-discapacidad-live.webp"
+   ],
+   "fotoNota": "Las fotografías muestran un panel de tres personas ante la pantalla «La IA en la discapacidad y en la perspectiva de género». No se etiquetan individualmente con certeza a partir de las imágenes.",
+   "secciones": [
+    {
+     "id": "contexto",
+     "t": "Contexto y presentación",
+     "bloques": [
+      {
+       "capa": "expuesto",
+       "ps": [
+        "El programa pide detectar sesgos y exclusión en los sistemas, con la pregunta: «¿Cómo se audita un algoritmo de selección por sesgo de género y capacitismo?». Intervienen Jesús Martín Blanco y Lola Navarro. Modera Esther Linares Sánchez.",
+        "Es la única mesa que aborda de forma expresa discapacidad y género, y comparte ambos ejes en una sola sesión."
+       ]
+      }
+     ]
+    },
+    {
+     "id": "resumen",
+     "t": "Resumen desarrollado de la intervención",
+     "bloques": [
+      {
+       "capa": "expuesto",
+       "aviso": "No se dispone de un acta literal de esta intervención. Lo que se presenta como «expuesto» se limita al programa oficial de las jornadas, a lo legible en las fotografías de la mesa y, cuando se indica expresamente, a posiciones públicas verificadas con anterioridad. No se atribuyen aquí frases pronunciadas en la sala si no hay prueba.",
+       "ps": [
+        "No hay acta literal. Posiciones públicas verificadas de Jesús Martín Blanco: la IA puede reproducir capacitismo si los datos de entrenamiento excluyen a las personas con discapacidad; la accesibilidad universal debe ser exigible; hay que vigilar los sesgos en los procesos de selección.",
+        "Lola Navarro interviene en su calidad de vicesecretaria general de UGT, con responsabilidades de género e igualdad. No se ha revisado aquí una comparecencia específica suya sobre IA que permita atribuirle citas."
+       ]
+      }
+     ]
+    },
+    {
+     "id": "temas",
+     "t": "Principales temas tratados",
+     "bloques": [
+      {
+       "capa": "expuesto",
+       "ul": [
+        "Sesgo de género en datos, modelos y decisiones de empleo (acceso, promoción, retribución, extinción).",
+        "Capacitismo algorítmico: sistemas entrenados sin personas con discapacidad o que penalizan adaptaciones, bajas o ritmos diversos.",
+        "Cómo auditar un algoritmo de selección.",
+        "Accesibilidad universal de las herramientas de IA usadas en el trabajo."
+       ]
+      }
+     ]
+    },
+    {
+     "id": "investigacion",
+     "t": "Investigación complementaria",
+     "bloques": [
+      {
+       "capa": "investiga",
+       "ps": [
+        "El informe «IA, género y trabajo» (derechos digitales, con participación de Luz Rodríguez entre otras autoras) documenta cómo los sistemas reproducen desigualdades si se entrenan con datos históricos sesgados.",
+        "El Reglamento de IA incluye entre los sistemas de alto riesgo los de contratación y selección (anexo III.4.a) y los de decisiones sobre condiciones, promoción, extinción, asignación de tareas y evaluación (III.4.b). También cubre, en otros apartados, usos que afectan a prestaciones esenciales y a educación.",
+        "La Convención de la ONU sobre los Derechos de las Personas con Discapacidad y la normativa española de accesibilidad universal e igualdad de trato obligan a no discriminar; la IA no es una excepción."
+       ]
+      }
+     ]
+    },
+    {
+     "id": "legislacion",
+     "t": "Legislación y normativa relacionada",
+     "bloques": [
+      {
+       "capa": "investiga",
+       "ul": [
+        "Reglamento (UE) 2024/1689, anexo III.4 (empleo) y requisitos de datos, transparencia y supervisión humana.",
+        "Ley Orgánica 3/2007 para la igualdad efectiva de mujeres y hombres, y normativa de planes de igualdad y auditorías retributivas.",
+        "Real Decreto Legislativo 1/2013 (texto refundido de la Ley General de derechos de las personas con discapacidad y de su inclusión social) y normativa de accesibilidad.",
+        "Ley 15/2022 integral para la igualdad de trato y la no discriminación.",
+        "RGPD: datos de salud y de discapacidad como categorías especiales (art. 9); evaluación de impacto cuando el riesgo lo requiera.",
+        "ET, arts. 17 (no discriminación) y 64.4.d (información algorítmica)."
+       ]
+      }
+     ]
+    },
+    {
+     "id": "datos",
+     "t": "Datos y estadísticas contrastados",
+     "bloques": [
+      {
+       "capa": "investiga",
+       "ps": [
+        "La literatura de la OIT y de organismos de igualdad advierte que la exposición a la IA generativa y a la digitalización no es neutra por sexo ni por discapacidad: las ocupaciones más feminizadas de oficina tienen alta exposición a la IA generativa, y las personas con discapacidad enfrentan barreras añadidas si los sistemas no son accesibles o si los datos históricos las excluyen.",
+        "No se cita aquí un porcentaje único de «sesgo medido» en los ATS (sistemas de selección) usados en España, porque varía por proveedor y no hay un registro público homogéneo. La ausencia de cifra no es ausencia de riesgo."
+       ]
+      }
+     ]
+    },
+    {
+     "id": "analisis",
+     "t": "Análisis sindical",
+     "bloques": [
+      {
+       "capa": "sindical",
+       "ps": [
+        "Auditar por género y por discapacidad no es un anexo cosmático: es mirar variables (huecos en el CV, bajas, adaptaciones, idioma, código postal, edad aparente, fotos), tasas de paso de fase desagregadas y falsos negativos. Sin datos desagregados no hay auditoría.",
+        "Juntar discapacidad y género en una sola mesa —hueco ya señalado en el análisis previo de las jornadas— no debe llevar a tratarlos como un mismo problema. Comparten la lógica del sesgo; no comparten las barreras ni las medidas."
+       ]
+      }
+     ]
+    },
+    {
+     "id": "empresas",
+     "t": "Aplicación práctica en las empresas",
+     "bloques": [
+      {
+       "capa": "sindical",
+       "ps": [
+        "Pedir: si hay un ATS o un sistema de evaluación, qué variables usa; si analiza fotos, voz o vídeo (alto riesgo de sesgo y, en su caso, de datos biométricos); tasas de selección desagregadas por sexo y por discapacidad sobrevenida o declarada; si cumple accesibilidad; si el plan de igualdad y el de diversidad han evaluado esos sistemas.",
+        "Ningún reconocimiento facial o de emociones debería usarse para seleccionar o evaluar. El Reglamento de IA trata de forma especialmente estricta esos usos."
+       ]
+      }
+     ]
+    },
+    {
+     "id": "casos",
+     "t": "Casos prácticos sectoriales (Canarias)",
+     "bloques": [
+      {
+       "capa": "sindical",
+       "ps": [
+        "En hostelería, un sistema que puntúe a camareras de piso por habitaciones/hora o por «sonrisa» en encuestas puede perjudicar a mujeres (mayoría del oficio), a quienes tienen adaptación de jornada por conciliación y a personas con discapacidad o enfermedad crónica que rinden en otro ritmo.",
+        "En sanitarias y empleadas públicas, los algoritmos de citación o de carga de trabajo que ignoren adaptaciones del puesto reproducen exclusión. En industria y transporte, los reconocimientos y testers físicos o cognitivos automatizados deben ser accesibles y no pueden convertirse en un filtro encubierto."
+       ]
+      }
+     ]
+    },
+    {
+     "id": "propuestas",
+     "t": "Propuestas para la negociación colectiva",
+     "bloques": [
+      {
+       "capa": "sindical",
+       "ps": [
+        "Cláusula de auditoría de sesgo de género y discapacidad. Texto negociable, no legislación vigente."
+       ],
+       "clausula": "[Propuesta negociable, no legislación vigente]\n\nArtículo X. No discriminación algorítmica y accesibilidad.\n1. Todo sistema de IA usado en selección, promoción, evaluación o extinción será auditado, al menos anualmente, con datos desagregados por sexo y por discapacidad, y con participación de la representación legal y, en su caso, de la comisión de igualdad.\n2. Se prohíbe el uso de reconocimiento de emociones y de análisis biométrico para evaluar el rendimiento o la idoneidad profesional.\n3. Las herramientas digitales de trabajo cumplirán condiciones de accesibilidad universal. El tiempo o los ajustes razonables no podrán usarse como factor de penalización automática.\n4. Detectado un sesgo, el sistema se suspenderá o se corregirá antes de seguir usándose, informando a la representación legal."
+      }
+     ]
+    },
+    {
+     "id": "conclusiones",
+     "t": "Conclusiones",
+     "bloques": [
+      {
+       "capa": "sindical",
+       "ps": [
+        "Un algoritmo de selección no es justo porque «no mire el nombre». Es justo si se audita, si es accesible y si la plantilla puede recurrir sus efectos.",
+        "Género y discapacidad exigen medidas específicas, no un epígrafe único de «diversidad»."
+       ]
+      }
+     ]
+    },
+    {
+     "id": "fuentes",
+     "t": "Fuentes y documentación",
+     "bloques": [
+      {
+       "capa": "investiga",
+       "links": [
+        {
+         "t": "Informe IA, género y trabajo",
+         "url": "https://www.derechosdigitales.gob.es/sites/default/files/2025-05/Inteligencia%20Artificial%20Genero%20y%20Trabajo.pdf"
+        },
+        {
+         "t": "Declaraciones sobre IA y discapacidad (Europa Press)",
+         "url": "https://www.europapress.es/epsocial/igualdad/noticia-derechos-sociales-pide-ia-respete-derechos-personas-discapacidad-20230611120253.html"
+        },
+        {
+         "t": "Ley Orgánica 3/2007 de igualdad",
+         "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2007-6115"
+        },
+        {
+         "t": "RDL 1/2013, derechos de las personas con discapacidad",
+         "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2013-12632"
+        },
+        {
+         "t": "Ley 15/2022 de igualdad de trato",
+         "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2022-11589"
+        },
+        {
+         "t": "Reglamento (UE) 2024/1689",
+         "url": "https://eur-lex.europa.eu/eli/reg/2024/1689/oj"
+        },
+        {
+         "t": "AESIA: sistemas de alto riesgo",
+         "url": "https://aesia.digital.gob.es/es/actualidad/recursos/ria-sistemas-de-alto-riesgo"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  "c1": {
+   "id": "c1",
+   "titulo": "Europa frente a la IA",
+   "fecha": "viernes 6 de noviembre de 2026",
+   "horario": "09:30–10:45",
+   "ponentes": [
+    {
+     "n": "Roxana Mînzatu",
+     "c": "Vicepresidenta ejecutiva de la Comisión Europea (Derechos Sociales, Capacidades, Empleo de Calidad y Preparación)"
+    },
+    {
+     "n": "Adrián Todolí",
+     "c": "Catedrático de Derecho del Trabajo, Universitat de València"
+    },
+    {
+     "n": "Ester Paniagua",
+     "c": "Periodista especializada en IA (su web firma Esther)"
+    },
+    {
+     "n": "Jose Cepeda",
+     "c": "Eurodiputado, Grupo Socialista (S&D)"
+    }
+   ],
+   "modera": {
+    "n": "Paula Ruiz",
+    "c": "Coordinadora UTC-UGT (modera)"
+   },
+   "fotos": [],
+   "fotoNota": "Al cierre de esta ficha no se habían podido incorporar las dos fotografías tomadas en directo de esta mesa (6 nov, 09:30): los ficheros adjuntos no llegaron de forma persistente al entorno de publicación. La incorporación queda pendiente de verificación y de un nuevo envío. No se inventa aquí ninguna diapositiva ni se identifica a nadie en una imagen que no está disponible.",
+   "secciones": [
+    {
+     "id": "contexto",
+     "t": "Contexto y presentación",
+     "bloques": [
+      {
+       "capa": "expuesto",
+       "ps": [
+        "El programa define la mesa como el momento para influir en el Quality Jobs Act y en la aplicación del Reglamento de IA. La pregunta clave es: «¿Directiva vinculante o directrices? ¿Qué papel tendrán los interlocutores sociales?». Modera Paula Ruiz (UTC-UGT).",
+        "El panel reúne a la vicepresidenta ejecutiva de la Comisión Europea Roxana Mînzatu, al laboralista Adrián Todolí, a la periodista Ester/Esther Paniagua y al eurodiputado Jose Cepeda."
+       ]
+      }
+     ]
+    },
+    {
+     "id": "resumen",
+     "t": "Resumen desarrollado de la intervención",
+     "bloques": [
+      {
+       "capa": "expuesto",
+       "aviso": "No se dispone de un acta literal de esta intervención. Lo que se presenta como «expuesto» se limita al programa oficial de las jornadas, a lo legible en las fotografías de la mesa y, cuando se indica expresamente, a posiciones públicas verificadas con anterioridad. No se atribuyen aquí frases pronunciadas en la sala si no hay prueba. Además, no se ha podido leer ninguna diapositiva de esta sesión por falta de fotografías persistentes.",
+       "ps": [
+        "Posiciones públicas verificadas con anterioridad, que no sustituyen a un acta de la sala:",
+        "Roxana Mînzatu impulsa la hoja de ruta de Empleo de Calidad y ha indicado que el Quality Jobs Act está previsto para el 3 de diciembre de 2026 como un texto único por capítulos —no un paquete enciclopédico— que incluiría la gestión algorítmica (supervisión humana, transparencia, posibilidad de recurrir decisiones del algoritmo), evitando duplicar el Reglamento de IA y el RGPD. En octubre de 2026 la forma jurídica seguía abierta y parte del debate interno apuntaba a que el capítulo de algoritmos podría quedar en directrices.",
+        "Adrián Todolí es referente en plataformas y en la Ley Rider, y codirigió con Ignasi Beltran «La regulación de la IA y el Derecho del Trabajo» (Aranzadi, 2025).",
+        "Esther Paniagua, autora de «Error 404» (2021), trabaja desinformación, discriminación algorítmica y gobernanza digital. El cartel escribe «Ester».",
+        "Jose Cepeda ha defendido públicamente la transparencia de plataformas y algoritmos en el marco de la Ley de Servicios Digitales."
+       ]
+      }
+     ]
+    },
+    {
+     "id": "temas",
+     "t": "Principales temas tratados",
+     "bloques": [
+      {
+       "capa": "expuesto",
+       "ul": [
+        "El Reglamento Europeo de IA y su aplicación al empleo.",
+        "Los sistemas de alto riesgo en recursos humanos.",
+        "La Directiva de trabajo en plataformas y la gestión algorítmica.",
+        "El Quality Jobs Act (iniciativa anunciada, no norma).",
+        "Derechos digitales y soberanía tecnológica europea.",
+        "El papel de los interlocutores sociales: ¿norma vinculante o meras directrices?"
+       ]
+      }
+     ]
+    },
+    {
+     "id": "investigacion",
+     "t": "Investigación complementaria",
+     "bloques": [
+      {
+       "capa": "investiga",
+       "ps": [
+        "El Reglamento (UE) 2024/1689 está en vigor. Su aplicación es escalonada. El anexo III, punto 4, califica de alto riesgo los sistemas de IA de contratación y selección y los que deciden o apoyan condiciones laborales, promoción, extinción, asignación de tareas según comportamientos o rasgos personales, o la supervisión y evaluación del rendimiento. Esos sistemas exigen gestión de riesgos, gobernanza de datos, transparencia, supervisión humana y solidez. Conviene consultar el texto consolidado en EUR-Lex: el Reglamento ha sido objeto de ajustes posteriores (entre ellos el llamado Ómnibus digital) que pueden haber modificado plazos de aplicación. Aquí no se da por sentada una fecha de aplicación que no se haya verificado en el texto consolidado.",
+        "La Directiva (UE) 2024/2831, de 23 de octubre de 2024, sí es derecho de la Unión en vigor. Mejora la determinación de la laboralidad en plataformas y regula la gestión algorítmica: transparencia de parámetros, límites al tratamiento de ciertos datos (por ejemplo el estado emocional), supervisión humana, explicación y revisión de decisiones, y participación de los representantes. Los Estados miembros deben transponerla el 2 de diciembre de 2026. Ese plazo está a días vista de esta mesa.",
+        "El Quality Jobs Act no se presenta aquí como ley. Es una iniciativa de la Comisión, con fecha objetivo de adopción de la propuesta el 3 de diciembre de 2026, de contenido aún no fijado en un texto legal aprobado."
+       ]
+      }
+     ]
+    },
+    {
+     "id": "legislacion",
+     "t": "Legislación y normativa relacionada",
+     "bloques": [
+      {
+       "capa": "investiga",
+       "ul": [
+        "Reglamento (UE) 2024/1689 (Ley de IA): normas horizontales, sistemas de alto riesgo, supervisión humana (art. 14) y transparencia.",
+        "Directiva (UE) 2024/2831: trabajo en plataformas y gestión algorítmica. Plazo de transposición: 2 de diciembre de 2026.",
+        "RGPD (UE) 2016/679, de aplicación plena al tratamiento de datos de la plantilla.",
+        "Reglamento (UE) 2022/2065 (Ley de Servicios Digitales), relevante para la transparencia de plataformas y de algoritmos de recomendación.",
+        "Carta de los Derechos Fundamentales de la UE (dignidad, protección de datos, no discriminación, negociación colectiva).",
+        "Quality Jobs Act: no es legislación vigente."
+       ]
+      }
+     ]
+    },
+    {
+     "id": "datos",
+     "t": "Datos y estadísticas contrastados",
+     "bloques": [
+      {
+       "capa": "investiga",
+       "ps": [
+        "Eurofound (EWCS 2024 / informe 2026): 19 % supervisión del rendimiento por programa, 18 % asignación de tareas, 10 % determinación del horario, en el conjunto de personas asalariadas de la UE. La gestión algorítmica se asocia a más intensidad y peor bienestar, sobre todo cuando hay supervisión del rendimiento.",
+        "Esas cifras muestran que el problema europeo no se agota en las plataformas de reparto: está dentro de las empresas «ordinarias». Por eso el debate sobre si el Quality Jobs Act debe ser vinculante o meramente orientativo no es académico."
+       ]
+      }
+     ]
+    },
+    {
+     "id": "analisis",
+     "t": "Análisis sindical",
+     "bloques": [
+      {
+       "capa": "sindical",
+       "ps": [
+        "Para UGT la posición coherente con el resto de las jornadas es pedir un instrumento europeo vinculante sobre gestión algorítmica en todo el empleo, que no se limite a las plataformas y que no se diluya en directrices voluntarias. Eso no significa duplicar el Reglamento de IA ni el RGPD: significa reconocer derechos laborales específicos (información, consulta, recurso, prohibición de despido meramente automatizado) allí donde esas normas horizontales no llegan con claridad.",
+        "La soberanía tecnológica europea no es solo fabricar chips: es no importar un modelo de gestión que trate a la plantilla como un flujo de datos sin contrapoder."
+       ]
+      }
+     ]
+    },
+    {
+     "id": "empresas",
+     "t": "Aplicación práctica en las empresas",
+     "bloques": [
+      {
+       "capa": "sindical",
+       "ps": [
+        "Mientras se discute el Quality Jobs Act, en la empresa ya se puede exigir: clasificación del sistema (¿alto riesgo del anexo III.4?); evaluación de impacto; supervisión humana con nombre y apellido; y, si la actividad entra en plataforma, el calendario de adaptación a la Directiva 2024/2831.",
+        "Un grupo multinacional no puede decir que «en Bruselas aún no hay nada»: el Reglamento de IA y el RGPD ya existen, y el art. 64.4.d ET también."
+       ]
+      }
+     ]
+    },
+    {
+     "id": "casos",
+     "t": "Casos prácticos sectoriales (Canarias)",
+     "bloques": [
+      {
+       "capa": "sindical",
+       "ps": [
+        "Las cadenas hoteleras y las plataformas de reserva o de experiencias que operan en Canarias despliegan sistemas de RR. HH. y de asignación de tareas pensados en otra capital europea. Si esos sistemas seleccionan, turnan o evalúan, son candidatos a alto riesgo. La representación en el centro canario tiene derecho a la misma información que la del centro peninsular.",
+        "En el transporte y el reparto (incluyendo plataformas que cubren aeropuertos y zonas turísticas) el 2 de diciembre de 2026 no es una fecha retórica: es el plazo de transposición de la Directiva de plataformas. Hay que preguntar a la empresa qué cambios ha previsto y a la Administración qué calendario legislativo español hay."
+       ]
+      }
+     ]
+    },
+    {
+     "id": "propuestas",
+     "t": "Propuestas para la negociación colectiva",
+     "bloques": [
+      {
+       "capa": "sindical",
+       "ps": [
+        "Cláusula alineada con el Reglamento de IA y con los derechos de gestión algorítmica de la Directiva de plataformas, extendidos convencionalmente al empleo ordinario. Texto negociable, no transposición legal ni legislación vigente."
+       ],
+       "clausula": "[Propuesta negociable, no legislación vigente]\n\nArtículo X. Garantías europeas de gestión algorítmica.\n1. Los sistemas de IA usados en selección, organización del trabajo, evaluación o extinción se tratarán, a efectos internos, con las garantías propias de un sistema de alto riesgo: transparencia de la finalidad y de los parámetros principales, supervisión humana efectiva y registro de incidentes.\n2. Toda persona afectada por una decisión significativa apoyada en un sistema automatizado tendrá derecho a una explicación comprensible y a una revisión humana, con respuesta motivada en un plazo máximo de quince días.\n3. Se prohíbe el tratamiento, a través de dichos sistemas, de datos sobre el estado emocional o psicológico, la afiliación sindical o la probabilidad de ejercer derechos colectivos.\n4. Esta cláusula no sustituye al Reglamento (UE) 2024/1689 ni a la Directiva (UE) 2024/2831; los desarrolla en la empresa."
+      }
+     ]
+    },
+    {
+     "id": "conclusiones",
+     "t": "Conclusiones",
+     "bloques": [
+      {
+       "capa": "sindical",
+       "ps": [
+        "Europa no parte de cero: tiene Ley de IA, RGPD, Ley de Servicios Digitales y Directiva de plataformas. Lo que está abierto —y esta mesa debía influir— es si la gestión algorítmica en todo el empleo tendrá una norma laboral europea vinculante o un recetario voluntario.",
+        "Hasta el 3 de diciembre de 2026 el Quality Jobs Act es una propuesta en preparación. Hasta el 2 de diciembre de 2026 la Directiva de plataformas espera su transposición. Son calendarios distintos y ambos importan."
+       ]
+      }
+     ]
+    },
+    {
+     "id": "fuentes",
+     "t": "Fuentes y documentación",
+     "bloques": [
+      {
+       "capa": "investiga",
+       "links": [
+        {
+         "t": "Reglamento (UE) 2024/1689 (EUR-Lex)",
+         "url": "https://eur-lex.europa.eu/eli/reg/2024/1689/oj"
+        },
+        {
+         "t": "Directiva (UE) 2024/2831 (EUR-Lex)",
+         "url": "https://eur-lex.europa.eu/eli/dir/2024/2831/oj"
+        },
+        {
+         "t": "Resumen de la Directiva de plataformas (EUR-Lex)",
+         "url": "https://eur-lex.europa.eu/EN/legal-content/summary/working-conditions-in-platform-work.html"
+        },
+        {
+         "t": "Hoja de ruta de empleo de calidad (Comisión Europea)",
+         "url": "https://employment-social-affairs.ec.europa.eu/policies-and-activities/rights-work/quality-jobs-companies-and-workers-europe_en"
+        },
+        {
+         "t": "Agence Europe: Quality Jobs Act previsto el 3 de diciembre",
+         "url": "https://agenceurope.eu/en/bulletin/article/13963/1/quality-jobs-act-due-on-3-december-will-be-a-single-targeted-text-not-a-comprehensive-package-roxana-minzatu-says"
+        },
+        {
+         "t": "EU Perspectives: el Quality Jobs Act y el «jefe algoritmo» (oct 2026)",
+         "url": "https://euperspectives.eu/2026/10/ai-boss-eu-quality-jobs-act-workers-rights/"
+        },
+        {
+         "t": "AESIA: sistemas de alto riesgo",
+         "url": "https://aesia.digital.gob.es/es/actualidad/recursos/ria-sistemas-de-alto-riesgo"
+        },
+        {
+         "t": "Explorador oficial del AI Act (Comisión)",
+         "url": "https://ai-act-service-desk.ec.europa.eu/es/ai-act-explorer"
+        },
+        {
+         "t": "Eurofound: gestión algorítmica",
+         "url": "https://www.eurofound.europa.eu/en/publications/all/algorithmic-management-in-european-workplaces"
+        },
+        {
+         "t": "Todolí y Beltran (dirs.), La regulación de la IA y el Derecho del Trabajo",
+         "url": "https://www.aranzadilaley.es/tienda/la-regulacion-de-la-inteligencia-artificial-y-el-derecho-del-trabajo"
+        },
+        {
+         "t": "ETUI: Algorithmic management and collective bargaining",
+         "url": "https://www.etui.org/publications/algorithmic-management-and-collective-bargaining"
+        },
+        {
+         "t": "ETUI: Regulating algorithmic management",
+         "url": "https://www.etui.org/publications/regulating-algorithmic-management"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  "c2": {
+   "id": "c2",
+   "titulo": "¿Cómo repartimos los beneficios de la IA?",
+   "fecha": "viernes 6 de noviembre de 2026",
+   "horario": "10:45–12:00",
+   "ponentes": [
+    {
+     "n": "Patricia Ruiz",
+     "c": "Secretaria de Salud Laboral UGT"
+    },
+    {
+     "n": "Ignasi Beltran de Heredia",
+     "c": "Catedrático de Derecho del Trabajo y de la Seguridad Social (UOC)"
+    }
+   ],
+   "modera": {
+    "n": "Óscar Riu",
+    "c": "Secretario de Política Sindical, UGT Catalunya (modera)"
+   },
+   "fotos": [],
+   "fotoNota": "No hay fotografías de esta mesa en la galería al publicar esta ficha.",
+   "secciones": [
+    {
+     "id": "contexto",
+     "t": "Contexto y presentación",
+     "bloques": [
+      {
+       "capa": "expuesto",
+       "ps": [
+        "El programa traduce la productividad en salario, jornada y salud, y pregunta: «¿Reducción de jornada, salario o fondo social? ¿Cómo se mide la ganancia?». Intervienen Patricia Ruiz (salud laboral) e Ignasi Beltran de Heredia. Modera Óscar Riu.",
+        "Es la mesa que cierra el arco económico de las jornadas, después del debate de pensiones del día 5, y la que introduce de forma explícita la salud laboral en el reparto."
+       ]
+      }
+     ]
+    },
+    {
+     "id": "resumen",
+     "t": "Resumen desarrollado de la intervención",
+     "bloques": [
+      {
+       "capa": "expuesto",
+       "aviso": "No se dispone de un acta literal de esta intervención. Lo que se presenta como «expuesto» se limita al programa oficial de las jornadas, a lo legible en las fotografías de la mesa y, cuando se indica expresamente, a posiciones públicas verificadas con anterioridad. No se atribuyen aquí frases pronunciadas en la sala si no hay prueba.",
+       "ps": [
+        "No hay acta ni fotografías de diapositivas de esta sesión. Posiciones y trayectoria verificadas: Patricia Ruiz es la responsable confederal de salud laboral; el eje esperado, por su cargo, es el de los riesgos psicosociales, el tecnoestrés y la vigilancia digital, sin atribuirle citas de esta sala.",
+        "Ignasi Beltran es autor del blog «Una mirada crítica a las relaciones laborales» y de trabajos sobre algoritmos productivos y extractivos (2023) y sobre IA y neuroderechos (2023): protección de los estados mentales y de la mente inconsciente de la persona trabajadora. Los neuroderechos son, en este punto, elaboración doctrinal y de debate, no un catálogo de derechos con ese nombre incorporado como tal al ordenamiento español."
+       ]
+      }
+     ]
+    },
+    {
+     "id": "temas",
+     "t": "Principales temas tratados",
+     "bloques": [
+      {
+       "capa": "expuesto",
+       "ul": [
+        "Reparto de la productividad generada por la IA: salario, jornada o fondo social.",
+        "Cómo se mide esa ganancia (indicadores, transparencia contable).",
+        "Salud laboral: tecnoestrés, vigilancia, intensificación y desconexión.",
+        "Límites a la extracción de datos físicos y mentales de la plantilla."
+       ]
+      }
+     ]
+    },
+    {
+     "id": "investigacion",
+     "t": "Investigación complementaria",
+     "bloques": [
+      {
+       "capa": "investiga",
+       "ps": [
+        "Eurofound asocia la gestión algorítmica —sobre todo la supervisión del rendimiento— a mayores exigencias cuantitativas, más tensión laboral, agotamiento y conflicto trabajo-familia. Repartir los beneficios de la IA sin mirar la salud es contar mal: parte de la «productividad» puede ser pura intensificación.",
+        "El INSST ha caracterizado el tecnoestrés (NTP 730) y los factores psicosociales de las TIC (NTP 1123), y en 2024 publicó una guía básica de desconexión digital. El art. 88 de la LOPDGDD reconoce el derecho a la desconexión.",
+        "UGT ha pedido un «dividendo digital»: que la ganancia de productividad no se quede solo en el margen empresarial."
+       ]
+      }
+     ]
+    },
+    {
+     "id": "legislacion",
+     "t": "Legislación y normativa relacionada",
+     "bloques": [
+      {
+       "capa": "investiga",
+       "ul": [
+        "Ley 31/1995 de prevención: deber de evaluar riesgos, también psicosociales, y de planificar la prevención. La digitalización no está exenta.",
+        "Art. 88 LOPDGDD: desconexión digital. Es derecho vigente; su concreción se remite a la negociación colectiva o, en su defecto, a lo que acuerde el empleador previa audiencia de los representantes.",
+        "Arts. 4 y 20 ET: dignidad, intimidad y límites del poder de dirección y control.",
+        "RGPD: minimización, licitud y, en su caso, prohibiciones o límites al tratamiento de datos biométricos o de salud.",
+        "No existe una ley española titulada de «neuroderechos laborales». Esa etiqueta corresponde al debate académico (Beltran y otros) y a iniciativas internacionales, no a un título vigente que pueda invocarse como tal ante un juez."
+       ]
+      }
+     ]
+    },
+    {
+     "id": "datos",
+     "t": "Datos y estadísticas contrastados",
+     "bloques": [
+      {
+       "capa": "investiga",
+       "ps": [
+        "Eurofound: 19 / 18 / 10 % (supervisión, asignación de tareas, horario). Quienes están expuestos declaran más intensidad. La supervisión del rendimiento es la función más asociada a peores resultados de salud.",
+        "En documentos preparatorios del Quality Jobs Act, la Comisión ha citado el aumento de problemas de salud mental relacionados con el trabajo (en torno al 29 % de personas trabajadoras que declaran estrés, ansiedad o depresión ligados o agravados por el empleo en 2025, frente al 27 % en 2022, según la consulta pública referida por Agence Europe). Es un dato de contexto europeo, no una medición específica de la IA."
+       ]
+      }
+     ]
+    },
+    {
+     "id": "analisis",
+     "t": "Análisis sindical",
+     "bloques": [
+      {
+       "capa": "sindical",
+       "ps": [
+        "Repartir es, a la vez, cobrar mejor, trabajar menos y no enfermar más. Si la IA ahorra tiempo y ese tiempo se convierte en más habitaciones por persona o en más llamadas por hora, no hay reparto: hay extracción.",
+        "La medición de la ganancia debe ser contradictoria: la empresa no puede ser la única que defina el denominador. Hace falta acceso a indicadores de productividad, márgenes y plantilla equivalente."
+       ]
+      }
+     ]
+    },
+    {
+     "id": "empresas",
+     "t": "Aplicación práctica en las empresas",
+     "bloques": [
+      {
+       "capa": "sindical",
+       "ps": [
+        "Protocolo práctico: 1) medir la productividad antes y después (plantilla equivalente, horas, output); 2) negociar el destino del excedente (salario, jornada, empleo, fondo de formación); 3) evaluar riesgos psicosociales con la nueva herramienta; 4) prohibir la vigilancia que no sea proporcional; 5) garantizar la desconexión real (no solo una declaración)."
+       ]
+      }
+     ]
+    },
+    {
+     "id": "casos",
+     "t": "Casos prácticos sectoriales (Canarias)",
+     "bloques": [
+      {
+       "capa": "sindical",
+       "ps": [
+        "Caso tipo. Un hotel calcula con IA la ocupación, reparte a la plantilla de pisos, fija turnos (incluidos partidos) y puntúa la «productividad» por habitación terminada. Efectos previsibles: menos plantilla estructural y más refuerzos en picos; jornada irregular; turnos partidos más frecuentes; cargas que recortan pausas; privacidad erosionada si se geolocaliza o se cronometra cada habitación; evaluación del rendimiento usada para primas o para no renovar; la representación se entera cuando el sistema ya está en marcha.",
+        "Respuesta sindical: inventariar el sistema; pedir la información del art. 64.4.d; exigir evaluación de impacto y de riesgos psicosociales; negociar ratios mínimos de personal, límites al partido y a la medición por habitación; prohibir decisiones automáticas de no renovación; pactar que una parte de la ganancia de ocupación se traduzca en plus o en reducción de jornada anual.",
+        "El mismo esquema vale, con matices, para el comercio de zonas turísticas (afluencia), el transporte (rutas y puntualidad), la sanidad (listas y triaje) y la industria (OEE y mantenimiento predictivo que se convierte en disponibilidad permanente)."
+       ]
+      }
+     ]
+    },
+    {
+     "id": "propuestas",
+     "t": "Propuestas para la negociación colectiva",
+     "bloques": [
+      {
+       "capa": "sindical",
+       "ps": [
+        "Cláusula de reparto de productividad, salud y desconexión. Texto negociable, no legislación vigente."
+       ],
+       "clausula": "[Propuesta negociable, no legislación vigente]\n\nArtículo X. Reparto de los beneficios de la inteligencia artificial y salud laboral.\n1. Cuando un sistema de IA o de gestión algorítmica genere un aumento medible de la productividad, la empresa informará de los indicadores utilizados y negociará el destino de esa ganancia, que se traducirá, de forma combinada o alternativa, en incrementos salariales, reducción de jornada, mantenimiento o ampliación de plantilla y formación.\n2. Ningún indicador de productividad basado en vigilancia continua, geolocalización o cronometraje individual se aplicará sin evaluación de riesgos psicosociales y sin informe de la representación legal.\n3. Se garantiza el derecho a la desconexión digital, con ausencia de deber de responder fuera de jornada y sin que la falta de respuesta pueda usarse como factor de evaluación.\n4. Se prohíbe la inferencia o el análisis de estados emocionales o mentales de la plantilla con fines de control o de evaluación."
+      }
+     ]
+    },
+    {
+     "id": "conclusiones",
+     "t": "Conclusiones",
+     "bloques": [
+      {
+       "capa": "sindical",
+       "ps": [
+        "Sin medición compartida no hay reparto. Sin prevención, el «beneficio» de la IA puede ser más tecnoestrés. Sin cláusula, la ganancia se queda en un solo lado de la mesa.",
+        "Los neuroderechos, como categoría doctrinal, sirven para nombrar un límite: el fuero interno no es un yacimiento de datos. No deben citarse como si ya fueran un título legal específico."
+       ]
+      }
+     ]
+    },
+    {
+     "id": "fuentes",
+     "t": "Fuentes y documentación",
+     "bloques": [
+      {
+       "capa": "investiga",
+       "links": [
+        {
+         "t": "Eurofound: gestión algorítmica y bienestar",
+         "url": "https://www.eurofound.europa.eu/en/publications/all/algorithmic-management-in-european-workplaces"
+        },
+        {
+         "t": "INSST, NTP 730: tecnoestrés",
+         "url": "https://www.insst.es/documentacion/colecciones-tecnicas/ntp-notas-tecnicas-de-prevencion/21-serie-ntp-numeros-716-a-750-ano-2006/ntp-730-tecnoestres-concepto-medida-e-intervencion-psicosocial-2006"
+        },
+        {
+         "t": "INSST, NTP 1123: TIC y riesgos psicosociales",
+         "url": "https://www.insst.es/documentacion/colecciones-tecnicas/ntp-notas-tecnicas-de-prevencion/32-serie-ntp-numeros-1101-a-1135-ano-2018/ntp-1123-las-tecnologias-de-la-informacion-y-la-comunicacion-tic-ii-factores-de-riesgo-psicosocial-2018"
+        },
+        {
+         "t": "INSST: espacio de desconexión digital",
+         "url": "https://www.insst.es/documentacion/espacio-monotematico/desconexion-digital"
+        },
+        {
+         "t": "INSST: guía básica de desconexión digital (2024)",
+         "url": "https://www.insst.es/noticias-insst/desconexion-digital-guia-basica-propuestas-desde-la-seguridad-y-salud-2024"
+        },
+        {
+         "t": "LOPDGDD (art. 88, desconexión digital)",
+         "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2018-16673"
+        },
+        {
+         "t": "Ley 31/1995 de prevención",
+         "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1995-24292"
+        },
+        {
+         "t": "Publicaciones de Ignasi Beltran de Heredia",
+         "url": "https://ignasibeltran.com/publicaciones-monografias-capitulos-de-libro-y-articulos/"
+        },
+        {
+         "t": "Recomendaciones UGT (dividendo digital / negociación de la IA)",
+         "url": "https://servicioestudiosugt.com/recomendaciones-para-la-negociacion-colectiva-de-la-ia/"
+        },
+        {
+         "t": "AEPD: guía para adecuar al RGPD productos y servicios con IA",
+         "url": "https://www.aepd.es/guias/adecuacion-rgpd-ia.pdf"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  "c3": {
+   "id": "c3",
+   "titulo": "Conclusiones",
+   "fecha": "viernes 6 de noviembre de 2026",
+   "horario": "12:00–12:30",
+   "ponentes": [
+    {
+     "n": "Fernando Luján",
+     "c": "Vicesecretario general de Política Sindical UGT"
+    }
+   ],
+   "modera": null,
+   "fotos": [],
+   "fotoNota": "No hay fotografías de esta intervención en la galería al publicar esta ficha.",
+   "secciones": [
+    {
+     "id": "contexto",
+     "t": "Contexto y presentación",
+     "bloques": [
+      {
+       "capa": "expuesto",
+       "ps": [
+        "El programa reserva media hora a la síntesis y a las propuestas de UGT, a cargo de Fernando Luján, que ya intervino el día 5 en la mesa de gobernanza. No hay moderación prevista."
+       ]
+      }
+     ]
+    },
+    {
+     "id": "resumen",
+     "t": "Resumen desarrollado de la intervención",
+     "bloques": [
+      {
+       "capa": "expuesto",
+       "aviso": "No se dispone de un acta literal de esta intervención. Lo que se presenta como «expuesto» se limita al programa oficial de las jornadas, a lo legible en las fotografías de la mesa y, cuando se indica expresamente, a posiciones públicas verificadas con anterioridad. No se atribuyen aquí frases pronunciadas en la sala si no hay prueba.",
+       "ps": [
+        "No hay acta de las conclusiones leídas en la sala ni un documento final publicado en esta PWA que pueda citarse como texto aprobado de las jornadas.",
+        "La línea pública verificada de Fernando Luján y de UGT, que es la que puede usarse como hipótesis de síntesis —no como crónica— es: la IA se informa, se consulta y se negocia antes de implantarse; el control humano es irrenunciable; los beneficios se reparten en salario y jornada; sin ese control, la IA puede ser «el nuevo capataz del siglo XXI»."
+       ]
+      }
+     ]
+    },
+    {
+     "id": "temas",
+     "t": "Principales temas tratados",
+     "bloques": [
+      {
+       "capa": "expuesto",
+       "ul": [
+        "Síntesis de las mesas de los días 4, 5 y 6.",
+        "Propuestas confederales para federaciones y territorios.",
+        "El paso de las jornadas a la acción: convenios, diálogo social y agenda europea."
+       ]
+      }
+     ]
+    },
+    {
+     "id": "investigacion",
+     "t": "Investigación complementaria",
+     "bloques": [
+      {
+       "capa": "investiga",
+       "ps": [
+        "Un documento de conclusiones, si se publica después por UGT, deberá enlazarse aquí cuando exista. Hasta entonces, las propuestas operativas están en las fichas de cada mesa y en las recomendaciones del Servicio de Estudios.",
+        "El calendario inmediato que enmarca cualquier síntesis es objetivo: transposición de la Directiva de plataformas (2 de diciembre de 2026) y presentación prevista del Quality Jobs Act (3 de diciembre de 2026). La huelga general del 11 de noviembre, citada en la agenda territorial, forma parte del contexto político, no del acta de esta intervención."
+       ]
+      }
+     ]
+    },
+    {
+     "id": "legislacion",
+     "t": "Legislación y normativa relacionada",
+     "bloques": [
+      {
+       "capa": "investiga",
+       "ps": [
+        "Remisión al marco ya citado a lo largo de las jornadas, que una síntesis no crea ni deroga:"
+       ],
+       "ul": [
+        "Art. 64.4.d ET y Ley 12/2021.",
+        "Reglamento (UE) 2024/1689 y Directiva (UE) 2024/2831.",
+        "RGPD y LOPDGDD (desconexión, art. 88).",
+        "LPRL, normativa de igualdad y de discapacidad.",
+        "V AENC como acuerdo de interlocutores, no como ley."
+       ]
+      }
+     ]
+    },
+    {
+     "id": "datos",
+     "t": "Datos y estadísticas contrastados",
+     "bloques": [
+      {
+       "capa": "investiga",
+       "ps": [
+        "Las cifras que una síntesis honesta puede retener son las ya contrastadas: Eurofound (19 / 18 / 10 %) y la advertencia de la OIT de que la IA generativa transforma tareas y de que el resultado sobre el empleo depende de las instituciones laborales, entre ellas la negociación colectiva."
+       ]
+      }
+     ]
+    },
+    {
+     "id": "analisis",
+     "t": "Análisis sindical",
+     "bloques": [
+      {
+       "capa": "sindical",
+       "ps": [
+        "Una buena conclusión no es un comunicado genérico: es una lista de encargos. Para federaciones: cláusulas tipo por sector. Para territorios: formación de delegados. Para el diálogo social: transposición de la Directiva de plataformas y posición ambiciosa ante el Quality Jobs Act. Para cada sección sindical: inventario, información del 64.4.d y evaluación de impacto."
+       ]
+      }
+     ]
+    },
+    {
+     "id": "empresas",
+     "t": "Aplicación práctica en las empresas",
+     "bloques": [
+      {
+       "capa": "sindical",
+       "ps": [
+        "Hoja de ruta mínima posterior a las jornadas: 1) mapear sistemas; 2) ejercer el art. 64.4.d; 3) abrir consulta; 4) evaluar salud laboral e igualdad; 5) negociar cláusula (información, supervisión humana, empleo, reparto, revisión anual); 6) formar a la representación en jornada."
+       ]
+      }
+     ]
+    },
+    {
+     "id": "casos",
+     "t": "Casos prácticos sectoriales (Canarias)",
+     "bloques": [
+      {
+       "capa": "sindical",
+       "ps": [
+        "Un paquete territorial para Canarias puede priorizar el convenio de hostelería y los de comercio y transporte, el empleo público autonómico y sanitario, y las plataformas que operan en aeropuertos y zonas turísticas. No hace falta esperar un texto estatal nuevo para empezar por el inventario y la consulta en esos centros."
+       ]
+      }
+     ]
+    },
+    {
+     "id": "propuestas",
+     "t": "Propuestas para la negociación colectiva",
+     "bloques": [
+      {
+       "capa": "sindical",
+       "ps": [
+        "Cláusula de evaluación periódica, que cierra el ciclo de las demás propuestas. Texto negociable, no legislación vigente."
+       ],
+       "clausula": "[Propuesta negociable, no legislación vigente]\n\nArtículo X. Evaluación periódica y vigencia.\n1. Los sistemas de IA y de gestión algorítmica se evaluarán de forma conjunta al menos una vez al año, y siempre que se produzca un cambio sustancial de parámetros o un incidente de empleo, igualdad, salud o protección de datos.\n2. El informe anual se entregará a la representación legal con los indicadores de plantilla, jornada, productividad, reclamaciones y auditorías de sesgo.\n3. Si la evaluación detecta un perjuicio no corregido, la empresa y la representación negociarán la suspensión, la corrección o la compensación, incluido el reparto de la productividad generada."
+      }
+     ]
+    },
+    {
+     "id": "conclusiones",
+     "t": "Conclusiones",
+     "bloques": [
+      {
+       "capa": "sindical",
+       "ps": [
+        "Las jornadas sirven si salen de Madrid hacia los convenios. La síntesis de Luján, cuando se disponga del texto real, deberá enlazarse aquí; hasta entonces, cada ficha conserva su identidad y sus pruebas."
+       ]
+      }
+     ]
+    },
+    {
+     "id": "fuentes",
+     "t": "Fuentes y documentación",
+     "bloques": [
+      {
+       "capa": "investiga",
+       "links": [
+        {
+         "t": "UGT: la IA, el nuevo capataz del siglo XXI",
+         "url": "https://www.ugt.es/ugt-advierte-en-reino-unido-de-que-la-ia-puede-convertirse-en-el-nuevo-capataz-del-siglo-xxi"
+        },
+        {
+         "t": "Recomendaciones UGT para la negociación colectiva de la IA",
+         "url": "https://servicioestudiosugt.com/recomendaciones-para-la-negociacion-colectiva-de-la-ia/"
+        },
+        {
+         "t": "Directiva (UE) 2024/2831",
+         "url": "https://eur-lex.europa.eu/eli/dir/2024/2831/oj"
+        },
+        {
+         "t": "Hoja de ruta de empleo de calidad",
+         "url": "https://employment-social-affairs.ec.europa.eu/policies-and-activities/rights-work/quality-jobs-companies-and-workers-europe_en"
+        },
+        {
+         "t": "Eurofound: gestión algorítmica",
+         "url": "https://www.eurofound.europa.eu/en/publications/all/algorithmic-management-in-european-workplaces"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  "c4": {
+   "id": "c4",
+   "titulo": "Clausura",
+   "fecha": "viernes 6 de noviembre de 2026",
+   "horario": "12:30–13:30 (fin aproximado: el programa no indica la hora de cierre)",
+   "ponentes": [
+    {
+     "n": "Yolanda Díaz",
+     "c": "Vicepresidenta segunda y ministra de Trabajo y Economía Social"
+    }
+   ],
+   "modera": null,
+   "fotos": [],
+   "fotoNota": "No hay fotografías de la clausura en la galería al publicar esta ficha.",
+   "secciones": [
+    {
+     "id": "contexto",
+     "t": "Contexto y presentación",
+     "bloques": [
+      {
+       "capa": "expuesto",
+       "ps": [
+        "El programa describe un cierre institucional a cargo de Yolanda Díaz. La pregunta clave es: «¿Qué iniciativa legislativa sobre IA laboral impulsará Trabajo?». El horario de fin está estimado."
+       ]
+      }
+     ]
+    },
+    {
+     "id": "resumen",
+     "t": "Resumen desarrollado de la intervención",
+     "bloques": [
+      {
+       "capa": "expuesto",
+       "aviso": "No se dispone de un acta literal de esta intervención. Lo que se presenta como «expuesto» se limita al programa oficial de las jornadas, a lo legible en las fotografías de la mesa y, cuando se indica expresamente, a posiciones públicas verificadas con anterioridad. No se atribuyen aquí frases pronunciadas en la sala si no hay prueba.",
+       "ps": [
+        "No hay acta de la clausura ni se atribuye aquí ningún anuncio legislativo hecho en la sala.",
+        "Lo verificable con anterioridad es que Yolanda Díaz impulsó la Ley Rider (Real Decreto-ley 9/2021, tramitado como Ley 12/2021), que introdujo la presunción de laboralidad en el reparto mediante plataformas y el derecho de información algorítmica del art. 64.4.d ET. El resto de posiciones recientes no se ha contrastado en esta ficha lo bastante como para citarlas."
+       ]
+      }
+     ]
+    },
+    {
+     "id": "temas",
+     "t": "Principales temas tratados",
+     "bloques": [
+      {
+       "capa": "expuesto",
+       "ul": [
+        "Cierre institucional de las jornadas.",
+        "La pregunta del programa sobre una eventual iniciativa legislativa de Trabajo en materia de IA laboral.",
+        "El precedente de la Ley Rider como marco ya vigente de información algorítmica."
+       ]
+      }
+     ]
+    },
+    {
+     "id": "investigacion",
+     "t": "Investigación complementaria",
+     "bloques": [
+      {
+       "capa": "investiga",
+       "ps": [
+        "Una eventual ley laboral de IA, si se anunciara, sería un proyecto o una proposición, no una norma hasta su publicación en el BOE. Esta ficha no adelanta ese anuncio.",
+        "El Gobierno, por boca de Joaquín Pérez Rey, ha descartado que sea necesario que «los robots coticen». Esa declaración, ya citada en la mesa de pensiones, ilustra el debate fiscal, no un compromiso leído en la clausura.",
+        "En Europa, la transposición de la Directiva 2024/2831 (2 de diciembre de 2026) es una obligación del Estado, con independencia de lo que se diga en un acto de clausura."
+       ]
+      }
+     ]
+    },
+    {
+     "id": "legislacion",
+     "t": "Legislación y normativa relacionada",
+     "bloques": [
+      {
+       "capa": "investiga",
+       "ul": [
+        "Ley 12/2021, de 28 de septiembre (Ley Rider): art. 64.4.d ET y disposición adicional sobre presunción de laboralidad en el reparto con gestión algorítmica.",
+        "Real Decreto-ley 9/2021, origen de esa reforma.",
+        "Guía de información algorítmica del Ministerio de Trabajo (2022): criterio interpretativo, no ley.",
+        "Directiva (UE) 2024/2831, pendiente de transposición plena en la fecha de estas jornadas.",
+        "Cualquier «iniciativa legislativa sobre IA laboral» futura: no se presenta aquí como derecho vigente."
+       ]
+      }
+     ]
+    },
+    {
+     "id": "datos",
+     "t": "Datos y estadísticas contrastados",
+     "bloques": [
+      {
+       "capa": "investiga",
+       "ps": [
+        "No se añade aquí una estadística nueva propia de la clausura. El contexto empírico sigue siendo el de Eurofound sobre la extensión de la gestión algorítmica más allá de las plataformas, que es precisamente el argumento para no limitar la política de Trabajo al perímetro de la Ley Rider."
+       ]
+      }
+     ]
+    },
+    {
+     "id": "analisis",
+     "t": "Análisis sindical",
+     "bloques": [
+      {
+       "capa": "sindical",
+       "ps": [
+        "La pregunta del programa es la correcta: qué hará Trabajo más allá de un marco pensado en 2021 para el reparto. Extender de hecho las garantías de información, consulta, supervisión humana y recurso a todo el empleo es una demanda coherente con las mesas jurídicas y europeas.",
+        "Esa demanda se puede sostener sin inventar que ya existe un proyecto de ley presentado en esta clausura."
+       ]
+      }
+     ]
+    },
+    {
+     "id": "empresas",
+     "t": "Aplicación práctica en las empresas",
+     "bloques": [
+      {
+       "capa": "sindical",
+       "ps": [
+        "Mientras no haya una ley nueva, la Ley Rider ya permite pedir la información algorítmica en cualquier empresa, no solo en las de reparto: el art. 64.4.d ET no está limitado a ese sector.",
+        "En empresas de plataforma, además, hay que vigilar la presunción de laboralidad y el calendario de la Directiva europea."
+       ]
+      }
+     ]
+    },
+    {
+     "id": "casos",
+     "t": "Casos prácticos sectoriales (Canarias)",
+     "bloques": [
+      {
+       "capa": "sindical",
+       "ps": [
+        "En Canarias el cumplimiento de la Ley Rider se juega en el reparto a domicilio y en los servicios ligados al turismo y a los aeropuertos. La clausura institucional no sustituye a la Inspección ni al convenio: si hay gestión algorítmica del servicio, hay que comprobar laboralidad, información al comité y salud laboral.",
+        "Para hoteles, comercio y AAPP, el mensaje práctico es el mismo que en el resto de fichas: el 64.4.d ya vale; no hay que esperar a una foto de la clausura para ejercerlo."
+       ]
+      }
+     ]
+    },
+    {
+     "id": "propuestas",
+     "t": "Propuestas para la negociación colectiva",
+     "bloques": [
+      {
+       "capa": "sindical",
+       "ps": [
+        "Cláusula de prohibición del despido meramente automatizado (robo-firing) y de revisión humana, en la línea de la Directiva de plataformas pero pensada para cualquier empresa. Texto negociable, no legislación vigente."
+       ],
+       "clausula": "[Propuesta negociable, no legislación vigente]\n\nArtículo X. Decisiones humanas en materia de empleo.\n1. Queda prohibido adoptar de forma enteramente automatizada decisiones de extinción, sanción grave, no renovación, bloqueo de cuenta o denegación de promoción.\n2. Toda decisión de esa naturaleza será adoptada por una persona con competencia, formación y autoridad para apartarse de la recomendación del sistema, y se comunicará de forma motivada a la persona afectada.\n3. La persona afectada podrá solicitar la revisión de la decisión en el plazo de siete días. La empresa responderá de forma razonada en diez días y entregará copia a la representación legal cuando la persona lo autorice o cuando el caso revele un patrón de funcionamiento del sistema."
+      }
+     ]
+    },
+    {
+     "id": "conclusiones",
+     "t": "Conclusiones",
+     "bloques": [
+      {
+       "capa": "sindical",
+       "ps": [
+        "La clausura institucional cierra las jornadas; no cierra el trabajo. El derecho de información algorítmica ya está en el Estatuto. La pregunta sobre una ley laboral de IA queda abierta y no se contesta aquí con un anuncio inventado."
+       ]
+      }
+     ]
+    },
+    {
+     "id": "fuentes",
+     "t": "Fuentes y documentación",
+     "bloques": [
+      {
+       "capa": "investiga",
+       "links": [
+        {
+         "t": "Ley 12/2021 (Ley Rider)",
+         "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2021-15767"
+        },
+        {
+         "t": "Real Decreto-ley 9/2021",
+         "url": "https://www.boe.es/buscar/doc.php?id=BOE-A-2021-7840"
+        },
+        {
+         "t": "Guía de información algorítmica (Ministerio de Trabajo, 2022)",
+         "url": "https://www.lamoncloa.gob.es/serviciosdeprensa/notasprensa/trabajo14/Documents/2022/100622-Guia_algoritmos.pdf"
+        },
+        {
+         "t": "Directiva (UE) 2024/2831",
+         "url": "https://eur-lex.europa.eu/eli/dir/2024/2831/oj"
+        },
+        {
+         "t": "Estatuto de los Trabajadores",
+         "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2015-11431"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  }
+ }
 }
