@@ -234,7 +234,9 @@
       "q": "¿Qué iniciativa legislativa sobre IA laboral impulsará Trabajo?",
       "est": true,
       "fotos": [
-        "img/galeria/dia6-clausura-live-1.webp"
+        "img/galeria/dia6-clausura-live-1.webp",
+        "img/galeria/dia6-clausura-live-2.webp",
+        "img/galeria/dia6-clausura-live-3.webp"
       ]
     }
   ],
@@ -688,6 +690,22 @@
       "s": "c4",
       "cap": "6 nov · en directo. Clausura con la ministra Yolanda Díaz (según la organización).",
       "alt": "Tres mujeres posan en el photocall de SINDICAL-IA ante fotógrafos de prensa en la clausura, 6 de noviembre de 2026"
+    },
+    {
+      "id": "g23",
+      "src": "img/galeria/dia6-clausura-live-2.webp",
+      "d": "2026-11-06",
+      "s": "c4",
+      "cap": "6 nov · en directo. La ministra Yolanda Díaz interviene en el atril en la clausura de SINDICAL-IA.",
+      "alt": "Yolanda Díaz habla en el atril de UGT ante el videowall de SINDICAL-IA, 6 de noviembre de 2026"
+    },
+    {
+      "id": "g24",
+      "src": "img/galeria/dia6-clausura-live-3.webp",
+      "d": "2026-11-06",
+      "s": "c4",
+      "cap": "6 nov · en directo. Vista general de la sala durante la intervención de clausura de la ministra Yolanda Díaz.",
+      "alt": "Vista de la sala con público; Yolanda Díaz en el atril y en la pantalla gigante, 6 de noviembre de 2026"
     }
   ],
   "FICHAS": {
@@ -2952,9 +2970,11 @@
       ],
       "modera": null,
       "fotos": [
-        "img/galeria/dia6-clausura-live-1.webp"
+        "img/galeria/dia6-clausura-live-1.webp",
+        "img/galeria/dia6-clausura-live-2.webp",
+        "img/galeria/dia6-clausura-live-3.webp"
       ],
-      "fotoNota": "Una fotografía en directo de la clausura (6 nov, 12:30): tres mujeres posan en el photocall de SINDICAL-IA ante fotógrafos de prensa. Clausura con la ministra Yolanda Díaz (según la organización). Yolanda Díaz figura ya en el listado de ponentes de esta sesión (Vicepresidenta segunda y ministra de Trabajo y Economía Social); su presencia queda confirmada por quien envía la foto desde la sala. No se identifican a las otras dos personas de la imagen: no hay cartela ni retratos verificables en el repositorio con los que contrastar.",
+      "fotoNota": "Una fotografía en directo de la clausura (6 nov, 12:30): tres mujeres posan en el photocall de SINDICAL-IA ante fotógrafos de prensa. Clausura con la ministra Yolanda Díaz (según la organización). Yolanda Díaz figura ya en el listado de ponentes de esta sesión (Vicepresidenta segunda y ministra de Trabajo y Economía Social); su presencia queda confirmada por quien envía la foto desde la sala. No se identifican a las otras dos personas de la imagen: no hay cartela ni retratos verificables en el repositorio con los que contrastar. Se añaden dos fotografías en directo de la intervención de Yolanda Díaz en el atril (identificada por quien envía las fotos desde la sala), una de ellas con vista general de la sala.",
       "secciones": [
         {
           "id": "contexto",
