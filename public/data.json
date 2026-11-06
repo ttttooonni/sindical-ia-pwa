@@ -193,11 +193,15 @@
       "t": "¿Cómo repartimos los beneficios de la IA?",
       "p": [
         "Patricia Ruiz",
-        "Ignasi Beltran de Heredia"
+        "Ignasi Beltrán de Heredia Ruiz"
       ],
       "m": "Óscar Riu",
       "o": "Traducir la productividad en salario, jornada y salud.",
-      "q": "¿Reducción de jornada, salario o fondo social? ¿Cómo se mide la ganancia?"
+      "q": "¿Reducción de jornada, salario o fondo social? ¿Cómo se mide la ganancia?",
+      "fotos": [
+        "img/galeria/dia6-beneficios-live-1.webp",
+        "img/galeria/dia6-beneficios-live-2.webp"
+      ]
     },
     {
       "id": "c3",
@@ -430,8 +434,8 @@
       "v": "Según cartel"
     },
     {
-      "n": "Ignasi Beltran de Heredia",
-      "c": "Catedrático de Derecho del Trabajo y SS (UOC)",
+      "n": "Ignasi Beltrán de Heredia Ruiz",
+      "c": "Catedrático de Derecho del Trabajo y de la Seguridad Social (UOC)",
       "b": "Autor del blog «Una mirada crítica a las relaciones laborales» y de libros sobre algoritmos extractivos (2023) y neuroderechos (2023).",
       "v": "Verificado"
     },
@@ -637,6 +641,22 @@
       "s": "c1",
       "cap": "6 nov · en directo. Misma mesa, toma centrada en el panel y el videowall.",
       "alt": "Panel Europa frente a la IA ante el patio de butacas, 6 de noviembre de 2026"
+    },
+    {
+      "id": "g18",
+      "src": "img/galeria/dia6-beneficios-live-1.webp",
+      "d": "2026-11-06",
+      "s": "c2",
+      "cap": "6 nov · en directo. Mesa «¿Cómo repartimos los beneficios de la IA?» (panel de tres y videowall).",
+      "alt": "Panel ¿Cómo repartimos los beneficios de la IA? en el Salón de Actos de UGT, 6 de noviembre de 2026"
+    },
+    {
+      "id": "g19",
+      "src": "img/galeria/dia6-beneficios-live-2.webp",
+      "d": "2026-11-06",
+      "s": "c2",
+      "cap": "6 nov · en directo. Misma mesa; en el videowall, cartela con Ignasi Beltrán de Heredia Ruiz.",
+      "alt": "Mesa de beneficios de la IA con cartela de Ignasi Beltrán de Heredia Ruiz en el videowall, 6 de noviembre de 2026"
     }
   ],
   "FICHAS": {
@@ -2473,7 +2493,7 @@
           "c": "Secretaria de Salud Laboral UGT"
         },
         {
-          "n": "Ignasi Beltran de Heredia",
+          "n": "Ignasi Beltrán de Heredia Ruiz",
           "c": "Catedrático de Derecho del Trabajo y de la Seguridad Social (UOC)"
         }
       ],
@@ -2481,8 +2501,11 @@
         "n": "Óscar Riu",
         "c": "Secretario de Política Sindical, UGT Catalunya (modera)"
       },
-      "fotos": [],
-      "fotoNota": "No hay fotografías de esta mesa en la galería al publicar esta ficha.",
+      "fotos": [
+        "img/galeria/dia6-beneficios-live-1.webp",
+        "img/galeria/dia6-beneficios-live-2.webp"
+      ],
+      "fotoNota": "Dos fotografías en directo de la mesa «¿Cómo repartimos los beneficios de la IA?» (6 nov, 10:45–12:00). Se lee con claridad el título en el videowall. En el escenario aparecen tres personas del panel. En la segunda toma, el videowall muestra una cartela (lower-third) que identifica a «Ignasi Beltrán de Heredia Ruiz — Catedrático de Derecho del Trabajo y de la Seguridad Social»; ese cargo coincide con el listado de ponentes de la ficha (UOC). No se etiquetan individualmente a las demás personas del escenario: no hay retratos verificables en el repositorio con los que contrastar.",
       "secciones": [
         {
           "id": "contexto",
@@ -2491,7 +2514,7 @@
             {
               "capa": "expuesto",
               "ps": [
-                "El programa traduce la productividad en salario, jornada y salud, y pregunta: «¿Reducción de jornada, salario o fondo social? ¿Cómo se mide la ganancia?». Intervienen Patricia Ruiz (salud laboral) e Ignasi Beltran de Heredia. Modera Óscar Riu.",
+                "El programa traduce la productividad en salario, jornada y salud, y pregunta: «¿Reducción de jornada, salario o fondo social? ¿Cómo se mide la ganancia?». Intervienen Patricia Ruiz (salud laboral) e Ignasi Beltran de Heredia. Modera Óscar Riu. Las fotografías en directo confirman el título proyectado en el videowall.",
                 "Es la mesa que cierra el arco económico de las jornadas, después del debate de pensiones del día 5, y la que introduce de forma explícita la salud laboral en el reparto."
               ]
             }
@@ -2505,7 +2528,7 @@
               "capa": "expuesto",
               "aviso": "No se dispone de un acta literal de esta intervención. Lo que se presenta como «expuesto» se limita al programa oficial de las jornadas, a lo legible en las fotografías de la mesa y, cuando se indica expresamente, a posiciones públicas verificadas con anterioridad. No se atribuyen aquí frases pronunciadas en la sala si no hay prueba.",
               "ps": [
-                "No hay acta ni fotografías de diapositivas de esta sesión. Posiciones y trayectoria verificadas: Patricia Ruiz es la responsable confederal de salud laboral; el eje esperado, por su cargo, es el de los riesgos psicosociales, el tecnoestrés y la vigilancia digital, sin atribuirle citas de esta sala.",
+                "Hay dos fotografías en directo de la mesa. En la segunda se lee en el videowall la cartela «Ignasi Beltrán de Heredia Ruiz — Catedrático de Derecho del Trabajo y de la Seguridad Social» (identificación verificada solo a partir de esa cartela en pantalla; el cargo coincide con el listado de ponentes). No hay acta ni diapositivas legibles con el contenido oral. Posiciones y trayectoria verificadas: Patricia Ruiz es la responsable confederal de salud laboral; el eje esperado, por su cargo, es el de los riesgos psicosociales, el tecnoestrés y la vigilancia digital como contrapeso al discurso de la productividad. Ignasi Beltrán de Heredia Ruiz (UOC) trabaja el Derecho del Trabajo frente a algoritmos y plataformas; su intervención en esta mesa se sitúa en cómo repartir el valor añadido de la IA (salario, jornada, salud), sin que las fotos permitan transcribir argumentos concretos.",
                 "Ignasi Beltran es autor del blog «Una mirada crítica a las relaciones laborales» y de trabajos sobre algoritmos productivos y extractivos (2023) y sobre IA y neuroderechos (2023): protección de los estados mentales y de la mente inconsciente de la persona trabajadora. Los neuroderechos son, en este punto, elaboración doctrinal y de debate, no un catálogo de derechos con ese nombre incorporado como tal al ordenamiento español."
               ]
             }
