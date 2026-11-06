@@ -64,3 +64,4 @@ ul{padding-left:1.2em}li{margin:.3em 0}
 blockquote{margin:8px 0;padding-left:12px;border-left:3px solid var(--cyan);color:var(--txt)}
 .fuentes{padding-left:1.2em}
 .fuentes a{color:var(--cyan);word-break:break-word}
+.welcome{padding:0;overflow:hidden}.welcome-foto{margin:0;padding:0}.welcome-foto img{display:block;width:100%;height:auto}.welcome h2{margin:14px 14px 6px;font-size:1.35rem;color:var(--lime)}.welcome>p{margin:0 14px 14px;color:var(--txt)}

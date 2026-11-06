@@ -104,6 +104,11 @@ ${secciones}`;
 const V = {
   inicio: () => `<p class="kicker">La acción sindical del futuro, ahora</p><h1>SINDICAL-IA</h1><div class="pix" aria-hidden="true">${"<i></i>".repeat(14)}</div>
 <p><strong>Jornadas Confederales de Política Sindical y Negociación Colectiva</strong></p>
+<section class="card welcome" aria-labelledby="bienvenida-canarias">
+<figure class="welcome-foto"><img src="img/canarias-grupo.webp" alt="Delegación de UGT Canarias en el photocall de las Jornadas SINDICAL-IA" width="1200" height="904" decoding="async"></figure>
+<h2 id="bienvenida-canarias">Bienvenida, delegación de UGT Canarias</h2>
+<p>Esta app está hecha para vosotros: los compañeros y compañeras de Canarias en las Jornadas SINDICAL-IA · Madrid, 4–6 nov 2026.</p>
+</section>
 <div class="card"><p class="time">4 · 5 · 6 NOVIEMBRE 2026</p><p>Salón de Actos UGT<br>Avda. de América, 25 · Madrid</p></div>
 <h2>Objetivos</h2><ul>${D.OBJETIVOS.map(o => `<li>${esc(o)}</li>`).join("")}</ul>`,
   agenda: () => `<h1>Agenda</h1><div class="days" role="group" aria-label="Día">${Object.entries(DIAS).map(([d, l]) => `<button type="button" aria-pressed="${d === day}" data-day="${d}">${l} nov</button>`).join("")}</div>
