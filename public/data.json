@@ -232,7 +232,10 @@
       "m": "",
       "o": "Cierre institucional.",
       "q": "¿Qué iniciativa legislativa sobre IA laboral impulsará Trabajo?",
-      "est": true
+      "est": true,
+      "fotos": [
+        "img/galeria/dia6-clausura-live-1.webp"
+      ]
     }
   ],
   "PONENTES": [
@@ -677,6 +680,14 @@
       "s": "c3",
       "cap": "6 nov · en directo. Intervención en el atril de SINDICAL-IA; videowall con el título genérico del evento (sin cartela de nombre).",
       "alt": "Persona hablando en el atril de SINDICAL-IA ante el videowall con el título del evento, 6 de noviembre de 2026"
+    },
+    {
+      "id": "g22",
+      "src": "img/galeria/dia6-clausura-live-1.webp",
+      "d": "2026-11-06",
+      "s": "c4",
+      "cap": "6 nov · en directo. Clausura con la ministra Yolanda Díaz (según la organización).",
+      "alt": "Tres mujeres posan en el photocall de SINDICAL-IA ante fotógrafos de prensa en la clausura, 6 de noviembre de 2026"
     }
   ],
   "FICHAS": {
@@ -2940,8 +2951,10 @@
         }
       ],
       "modera": null,
-      "fotos": [],
-      "fotoNota": "No hay fotografías de la clausura en la galería al publicar esta ficha.",
+      "fotos": [
+        "img/galeria/dia6-clausura-live-1.webp"
+      ],
+      "fotoNota": "Una fotografía en directo de la clausura (6 nov, 12:30): tres mujeres posan en el photocall de SINDICAL-IA ante fotógrafos de prensa. Clausura con la ministra Yolanda Díaz (según la organización). Yolanda Díaz figura ya en el listado de ponentes de esta sesión (Vicepresidenta segunda y ministra de Trabajo y Economía Social); su presencia queda confirmada por quien envía la foto desde la sala. No se identifican a las otras dos personas de la imagen: no hay cartela ni retratos verificables en el repositorio con los que contrastar.",
       "secciones": [
         {
           "id": "contexto",
@@ -2950,7 +2963,8 @@
             {
               "capa": "expuesto",
               "ps": [
-                "El programa describe un cierre institucional a cargo de Yolanda Díaz. La pregunta clave es: «¿Qué iniciativa legislativa sobre IA laboral impulsará Trabajo?». El horario de fin está estimado."
+                "El programa describe un cierre institucional a cargo de Yolanda Díaz. La pregunta clave es: «¿Qué iniciativa legislativa sobre IA laboral impulsará Trabajo?». El horario de fin está estimado.",
+                "Hay una fotografía en directo del photocall de la clausura: tres mujeres posan ante fotógrafos de prensa. Clausura con la ministra Yolanda Díaz (según la organización); su presencia queda confirmada por quien envía la foto desde la sala. No se identifican a las otras dos personas de la imagen."
               ]
             }
           ]
@@ -2963,6 +2977,7 @@
               "capa": "expuesto",
               "aviso": "No se dispone de un acta literal de esta intervención. Lo que se presenta como «expuesto» se limita al programa oficial de las jornadas, a lo legible en las fotografías de la mesa y, cuando se indica expresamente, a posiciones públicas verificadas con anterioridad. No se atribuyen aquí frases pronunciadas en la sala si no hay prueba.",
               "ps": [
+                "Hay una fotografía en directo del photocall (tres mujeres ante la prensa). La organización identifica la toma como clausura con la ministra Yolanda Díaz; figura ya en el listado de ponentes de esta ficha. No se atribuye aquí el contenido oral de la clausura ni se etiquetan a las otras dos personas de la foto.",
                 "No hay acta de la clausura ni se atribuye aquí ningún anuncio legislativo hecho en la sala.",
                 "Lo verificable con anterioridad es que Yolanda Díaz impulsó la Ley Rider (Real Decreto-ley 9/2021, tramitado como Ley 12/2021), que introdujo la presunción de laboralidad en el reparto mediante plataformas y el derecho de información algorítmica del art. 64.4.d ET. El resto de posiciones recientes no se ha contrastado en esta ficha lo bastante como para citarlas."
               ]
